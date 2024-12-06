@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TCG-Guides/static/css/main.f855e6bc.css",
+    "main.js": "/TCG-Guides/static/js/main.2bce42b6.js",
+    "static/js/151.a5e2097c.chunk.js": "/TCG-Guides/static/js/151.a5e2097c.chunk.js",
+    "static/media/logo.svg": "/TCG-Guides/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TCG-Guides/index.html",
+    "main.f855e6bc.css.map": "/TCG-Guides/static/css/main.f855e6bc.css.map",
+    "main.2bce42b6.js.map": "/TCG-Guides/static/js/main.2bce42b6.js.map",
+    "151.a5e2097c.chunk.js.map": "/TCG-Guides/static/js/151.a5e2097c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2bce42b6.js"
+  ]
+}
