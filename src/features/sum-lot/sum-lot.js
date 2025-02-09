@@ -3,11 +3,7 @@ import "../../styles/tcg-guides.css";
 import FloatingTextBox from "../../components/floatingTextBox";
 
 function SumLot() {
-  return (
-    <div className="content">
-      <FloatingTextBox />
-    </div>
-  );
+  return <div className="content sumlot-bg">yeiadhwaduohawo</div>;
 }
 
 export default SumLot;
