@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "../../styles/tcg-guides.css";
 import FormatPanel from "../../components/formatpanel";
 
-function SumLot() {
+function XySts() {
   return (
     <div className="content dpul-bg">
       <FormatPanel body={"yappayappa"} href={"throw.gif"} />
@@ -10,4 +10,4 @@ function SumLot() {
   );
 }
 
-export default SumLot;
+export default XySts;

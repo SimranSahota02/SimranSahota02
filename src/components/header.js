@@ -1,45 +1,67 @@
 import React from "react";
 import "../styles/tcg-guides.css";
-import { useLocation } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 function Header() {
   const location = useLocation();
   return (
     <header className="header">
-      <a href="/" className="gohome"></a>
+      <Link to="" className="gohome"></Link>
       <nav className="navbar">
-        <a
-          href="/glc"
-          className={`glc-ref ${
-            location.pathname === "/#/glc" ? "active" : ""
+        <Link
+          to="rs-pk"
+          className={`rspk-ref ${
+            location.pathname === "/rs-pk" ? "active" : ""
           }`}
         >
-          GLC
-        </a>
-        <a
-          href="/dp-ul"
+          2007 RS-PK
+        </Link>
+        <Link
+          to="dp-ul"
           className={`dpul-ref ${
-            location.pathname === "/#/dp-ul" ? "active" : ""
+            location.pathname === "/dp-ul" ? "active" : ""
           }`}
         >
           2010 DP-UL
-        </a>
-        <a
-          href="/sum-lot"
+        </Link>
+        <Link
+          to="bw-plf"
+          className={`bwplf-ref ${
+            location.pathname === "/bw-plf" ? "active" : ""
+          }`}
+        >
+          2013 BW-PLF
+        </Link>
+        <Link
+          to="xy-sts"
+          className={`xysts-ref ${
+            location.pathname === "/xy-sts" ? "active" : ""
+          }`}
+        >
+          2016 XY-STS
+        </Link>
+        <Link
+          to="sum-lot"
           className={`sumlot-ref ${
-            location.pathname === "/#/sum-lot" ? "active" : ""
+            location.pathname === "/sum-lot" ? "active" : ""
           }`}
         >
           2018 SUM-LOT
-        </a>
-        <a
-          href="/bst-paf"
+        </Link>
+        <Link
+          to="bst-paf"
           className={`bstpaf-ref ${
-            location.pathname === "/#/bst-paf" ? "active" : ""
+            location.pathname === "/bst-paf" ? "active" : ""
           }`}
         >
           2023 BST-PAF
-        </a>
+        </Link>
+        <Link
+          to="glc"
+          className={`glc-ref ${location.pathname === "/glc" ? "active" : ""}`}
+        >
+          GLC
+        </Link>
       </nav>
     </header>
   );

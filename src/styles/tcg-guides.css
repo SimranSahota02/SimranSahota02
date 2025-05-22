@@ -93,14 +93,49 @@ body {
   background: url("../images/nav/dp-ul.jpg");
 }
 
+.rspk-ref.active {
+  opacity: 0.5;
+  background: url("../images/nav/rs-pk.jpg");
+}
+
+.rspk-ref:hover {
+  opacity: 1;
+  background: url("../images/nav/rs-pk.jpg");
+}
+
+.bwplf-ref.active {
+  opacity: 0.5;
+  background: url("../images/nav/bw-plf.jpg");
+}
+
+.bwplf-ref:hover {
+  opacity: 1;
+  background: url("../images/nav/bw-plf.jpg");
+}
+
+.xysts-ref.active {
+  opacity: 0.5;
+  background: url("../images/nav/xy-sts.jpg");
+}
+
+.xysts-ref:hover {
+  opacity: 1;
+  background: url("../images/nav/xy-sts.jpg");
+}
+
+.glc-ref.active {
+  opacity: 0.5;
+  background: url("../images/nav/glc.jpg");
+}
+
 .glc-ref:hover {
   opacity: 1;
   background: url("../images/nav/glc.jpg");
 }
 
-.glc-ref:active {
+.sumlot-ref.active {
   opacity: 0.5;
-  background: url("../images/nav/glc.jpg");
+  background: url("../images/nav/sum-lot.jpg");
 }
 
 .sumlot-ref:hover {
@@ -108,17 +143,13 @@ body {
   background: url("../images/nav/sum-lot.jpg");
 }
 
-.sumlot-ref:active {
+.bstpaf-ref.active {
   opacity: 0.5;
-  background: url("../images/nav/sum-lot.jpg");
+  background: url("../images/nav/bst-paf.jpg");
 }
 
 .bstpaf-ref:hover {
   opacity: 1;
-  background: url("../images/nav/bst-paf.jpg");
-}
-.bstpaf-ref:active {
-  opacity: 0.5;
   background: url("../images/nav/bst-paf.jpg");
 }
 
