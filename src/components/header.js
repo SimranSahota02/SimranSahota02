@@ -10,14 +10,16 @@ function Header() {
       <nav className="navbar">
         <a
           href="/glc"
-          className={`glc-ref ${location.pathname === "/glc" ? "active" : ""}`}
+          className={`glc-ref ${
+            location.pathname === "/#/glc" ? "active" : ""
+          }`}
         >
           GLC
         </a>
         <a
           href="/dp-ul"
           className={`dpul-ref ${
-            location.pathname === "/dp-ul" ? "active" : ""
+            location.pathname === "/#/dp-ul" ? "active" : ""
           }`}
         >
           2010 DP-UL
@@ -25,7 +27,7 @@ function Header() {
         <a
           href="/sum-lot"
           className={`sumlot-ref ${
-            location.pathname === "/sum-lot" ? "active" : ""
+            location.pathname === "/#/sum-lot" ? "active" : ""
           }`}
         >
           2018 SUM-LOT
@@ -33,7 +35,7 @@ function Header() {
         <a
           href="/bst-paf"
           className={`bstpaf-ref ${
-            location.pathname === "/bst-paf" ? "active" : ""
+            location.pathname === "/#/bst-paf" ? "active" : ""
           }`}
         >
           2023 BST-PAF
