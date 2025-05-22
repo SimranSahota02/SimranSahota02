@@ -12,10 +12,7 @@ body {
 .content {
   height: 100vh;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+  text-align: justify;
   background: url("../images/landing/home.jpg");
 }
 
@@ -27,26 +24,33 @@ body {
   background: url("../images/landing/sum-lot.jpg");
 }
 
-.floating-textbox {
-  width: 80vw; /* Set width */
-  height: 80vh;
-  padding: 20px;
-  background-color: rgba(230, 255, 230, 0.4);
-  border-radius: 10px; /* Rounded corners */
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); /* Floating shadow */
-  text-align: center;
-  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover effect */
+.format-panel {
+  margin-left: 120px;
+  margin-top: 150px;
+  margin-bottom: 60px;
+  width: 45%;
+  background-color: rgba(246, 220, 198, 0.97);
+  border-radius: 35px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  animation: floatIn 0.75s ease-out forwards;
+  text-align: left;
 }
 
-.floating-textbox h2 {
-  margin-bottom: 15px;
-  font-size: 1.5rem;
-  color: #333;
+.format-panel img {
+  margin-left: 5px;
+  margin-top: 5px;
+  border-radius: 35px;
 }
 
-.floating-textbox p {
-  font-size: 1rem;
-  color: #666;
+@keyframes floatIn {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .navbar {
@@ -73,22 +77,48 @@ body {
 
 .navbar a:hover {
   color: aliceblue;
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.navbar a.active {
+  color: aliceblue;
+}
+
+.dpul-ref.active {
+  opacity: 0.5;
+  background: url("../images/nav/dp-ul.jpg");
 }
 
 .dpul-ref:hover {
+  opacity: 1;
   background: url("../images/nav/dp-ul.jpg");
 }
 
 .glc-ref:hover {
+  opacity: 1;
+  background: url("../images/nav/glc.jpg");
+}
+
+.glc-ref:active {
+  opacity: 0.5;
   background: url("../images/nav/glc.jpg");
 }
 
 .sumlot-ref:hover {
+  opacity: 1;
+  background: url("../images/nav/sum-lot.jpg");
+}
+
+.sumlot-ref:active {
+  opacity: 0.5;
   background: url("../images/nav/sum-lot.jpg");
 }
 
 .bstpaf-ref:hover {
+  opacity: 1;
+  background: url("../images/nav/bst-paf.jpg");
+}
+.bstpaf-ref:active {
+  opacity: 0.5;
   background: url("../images/nav/bst-paf.jpg");
 }
 

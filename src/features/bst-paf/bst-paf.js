@@ -1,13 +1,8 @@
 import React from "react";
 import "../../styles/tcg-guides.css";
-import FloatingTextBox from "../../components/floatingTextBox";
 
 function BstPaf() {
-  return (
-    <div className="content">
-      <FloatingTextBox />
-    </div>
-  );
+  return <div className="content"></div>;
 }
 
 export default BstPaf;
