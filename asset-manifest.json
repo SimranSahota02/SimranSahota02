@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/TCG-Guides/static/css/main.f855e6bc.css",
-    "main.js": "/TCG-Guides/static/js/main.2bce42b6.js",
+    "main.css": "/TCG-Guides/static/css/main.b443bd36.css",
+    "main.js": "/TCG-Guides/static/js/main.830c6bbd.js",
     "static/js/151.a5e2097c.chunk.js": "/TCG-Guides/static/js/151.a5e2097c.chunk.js",
-    "static/media/logo.svg": "/TCG-Guides/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/home.jpg": "/TCG-Guides/static/media/home.367cc5ca1e614fd3edb5.jpg",
+    "static/media/sum-lot.jpg": "/TCG-Guides/static/media/sum-lot.e0a58e34dcc6679943ff.jpg",
+    "static/media/dp-ul.jpg": "/TCG-Guides/static/media/dp-ul.a1e74bd59e2b64f9a939.jpg",
+    "static/media/throw.gif": "/TCG-Guides/static/media/throw.7cf2c63c41c455bfc3c8.gif",
+    "static/media/gohome.jpg": "/TCG-Guides/static/media/gohome.c9158e021e681ce98b2e.jpg",
+    "static/media/gohome.png": "/TCG-Guides/static/media/gohome.5bd5fff34990cd7a2a59.png",
     "index.html": "/TCG-Guides/index.html",
-    "main.f855e6bc.css.map": "/TCG-Guides/static/css/main.f855e6bc.css.map",
-    "main.2bce42b6.js.map": "/TCG-Guides/static/js/main.2bce42b6.js.map",
+    "main.b443bd36.css.map": "/TCG-Guides/static/css/main.b443bd36.css.map",
+    "main.830c6bbd.js.map": "/TCG-Guides/static/js/main.830c6bbd.js.map",
     "151.a5e2097c.chunk.js.map": "/TCG-Guides/static/js/151.a5e2097c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.2bce42b6.js"
+    "static/css/main.b443bd36.css",
+    "static/js/main.830c6bbd.js"
   ]
 }
