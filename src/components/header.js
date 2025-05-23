@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/tcg-guides.css";
+import "../styles/navbar.css";
 import { Link, useLocation } from "react-router-dom";
 
 function Header() {
@@ -56,12 +56,12 @@ function Header() {
         >
           2023 BST-PAF
         </Link>
-        <Link
+        {/* <Link
           to="glc"
           className={`glc-ref ${location.pathname === "/glc" ? "active" : ""}`}
         >
           GLC
-        </Link>
+        </Link> */}
       </nav>
     </header>
   );
