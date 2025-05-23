@@ -39,16 +39,19 @@ body {
 }
 
 .content {
-  height: 100vh;
+  min-height: 100vh;
+  height: auto;
   display: flex;
   flex-direction: column;
   text-align: justify;
   background: url("../images/landing/home.jpg");
+  background-repeat: repeat;
 }
 
 .content.dimmer {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)),
     url("../images/landing/home.jpg");
-  background-size: cover;
-  background-position: center;
+  background-size: auto;
+  background-position: top left;
+  background-repeat: repeat;
 }

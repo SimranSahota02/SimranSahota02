@@ -38,7 +38,8 @@ function Home() {
               </a>
             </p>
             <p style={{ textAlign: "justify" }}>
-              Site made using React Native :p
+              Site made using React Native, bear with random resolution mobiles
+              :p
             </p>
           </div>
         </div>
