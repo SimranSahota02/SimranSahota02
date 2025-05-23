@@ -1,20 +1,31 @@
 {
   "files": {
-    "main.css": "/SimranSahota02/static/css/main.26251e6c.css",
-    "main.js": "/SimranSahota02/static/js/main.f3d7245d.js",
+    "main.css": "/SimranSahota02/static/css/main.d9440b00.css",
+    "main.js": "/SimranSahota02/static/js/main.e5c1f6a1.js",
     "static/js/151.a5e2097c.chunk.js": "/SimranSahota02/static/js/151.a5e2097c.chunk.js",
     "static/media/home.jpg": "/SimranSahota02/static/media/home.367cc5ca1e614fd3edb5.jpg",
+    "static/media/image1.jpg": "/SimranSahota02/static/media/image1.54cae712c4f878740608.jpg",
+    "static/media/image10.jpg": "/SimranSahota02/static/media/image10.59785d6fa848317e2eb7.jpg",
+    "static/media/image8.jpg": "/SimranSahota02/static/media/image8.ed8fccc4578e753f7dbd.jpg",
+    "static/media/image5.jpg": "/SimranSahota02/static/media/image5.46130d0f9dbae048d85e.jpg",
+    "static/media/image3.jpg": "/SimranSahota02/static/media/image3.30b7e98088821908d42f.jpg",
     "static/media/sum-lot.jpg": "/SimranSahota02/static/media/sum-lot.e0a58e34dcc6679943ff.jpg",
     "static/media/dp-ul.jpg": "/SimranSahota02/static/media/dp-ul.a1e74bd59e2b64f9a939.jpg",
+    "static/media/image7.jpg": "/SimranSahota02/static/media/image7.09cd9676e9cf9757575e.jpg",
+    "static/media/image6.jpg": "/SimranSahota02/static/media/image6.290ea5f7270718388201.jpg",
     "static/media/throw.gif": "/SimranSahota02/static/media/throw.7cf2c63c41c455bfc3c8.gif",
+    "static/media/image4.jpg": "/SimranSahota02/static/media/image4.aedaa94ecab65cecba09.jpg",
+    "static/media/image9.jpg": "/SimranSahota02/static/media/image9.a4ac8a37b3fec37a07a8.jpg",
+    "static/media/image2.jpg": "/SimranSahota02/static/media/image2.06895ccd1efe37e05f5d.jpg",
     "static/media/gohome.png": "/SimranSahota02/static/media/gohome.eacd51c4abf5aba5150b.png",
+    "static/media/icon.jpg": "/SimranSahota02/static/media/icon.d4d1b64f24f3e3bc27ee.jpg",
     "index.html": "/SimranSahota02/index.html",
-    "main.26251e6c.css.map": "/SimranSahota02/static/css/main.26251e6c.css.map",
-    "main.f3d7245d.js.map": "/SimranSahota02/static/js/main.f3d7245d.js.map",
+    "main.d9440b00.css.map": "/SimranSahota02/static/css/main.d9440b00.css.map",
+    "main.e5c1f6a1.js.map": "/SimranSahota02/static/js/main.e5c1f6a1.js.map",
     "151.a5e2097c.chunk.js.map": "/SimranSahota02/static/js/151.a5e2097c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26251e6c.css",
-    "static/js/main.f3d7245d.js"
+    "static/css/main.d9440b00.css",
+    "static/js/main.e5c1f6a1.js"
   ]
 }
