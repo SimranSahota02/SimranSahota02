@@ -8,7 +8,7 @@ function DpUl() {
     <div className="content dpul-bg">
       <FormatPanel body={"yappayappa"} href={"throw.gif"} />
       <li style={{ margin: "100px 0" }}>
-        <Link to="/dpul/decks/fire">Fire Deck</Link>
+        <Link to="/dpul/decks/2010GG">Gardevoir Gallade</Link>
       </li>
     </div>
   );

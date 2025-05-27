@@ -1,11 +1,8 @@
-import React, { useState, useEffect } from "react";
 import "../styles/tcg-guides.css";
 
-function FormatPanel({ body, href }) {
-  console.log(href);
+function FormatPanel({ body, image, title, body2 = "" }) {
   return (
     <div className="format-panel">
-      <img src={require(`../images/${href}`)} alt="text" />
       <div>{body}</div>
     </div>
   );

@@ -1,0 +1,78 @@
+.grouped-block {
+  margin-left: 120px;
+  margin-top: 150px;
+  margin-bottom: 60px;
+  width: 45%;
+  background-color: rgba(149, 165, 166, 0.97);
+  border-radius: 35px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  animation: floatIn 0.75s ease-out forwards;
+  text-align: left;
+  padding: 15px;
+}
+.card {
+  margin: 1rem;
+}
+
+.card.medium {
+  width: 400px;
+}
+
+.card.small {
+  width: 120px;
+}
+
+.card.right {
+  float: right;
+}
+
+.card.left {
+  float: left;
+}
+
+.card.center {
+  margin: 0 auto;
+  display: block;
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+}
+
+.hover-card-name {
+  color: #1b4f72;
+  font-weight: bold;
+  cursor: pointer;
+  position: relative;
+}
+
+.hover-preview {
+  position: absolute;
+  top: 1.5em;
+  left: 0;
+  z-index: 999;
+  background: white;
+  padding: 5px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 768px) {
+  .grouped-block {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    padding: 12px;
+    width: 90vw !important;
+    background-color: rgba(149, 165, 166, 0.97);
+    border-radius: 35px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    animation: floatIn 0.75s ease-out forwards;
+    text-align: left;
+  }
+
+  .card.medium {
+    width: 200px;
+  }
+}

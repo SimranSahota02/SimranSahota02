@@ -1,31 +1,43 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import GroupedBlock from "./components/groupedblock";
+import "../../styles/deckguide.css";
 
-const DECK_DATA = {
-  fire: {
-    title: "Fire Deck",
-    description: "A blazing deck filled with aggressive plays.",
-  },
-  water: {
-    title: "Water Deck",
-    description: "A cool deck with control and healing strategies.",
-  },
+const groupBy = (array, key) => {
+  return array.reduce((result, item) => {
+    const groupKey = item[key] || "ungrouped";
+    if (!result[groupKey]) {
+      result[groupKey] = [];
+    }
+    result[groupKey].push(item);
+    return result;
+  }, {});
 };
 
-function GuideWrapper() {
+const GuideWrapper = () => {
   const { deckId } = useParams();
-  const deck = DECK_DATA[deckId];
+  const [content, setContent] = useState([]);
 
-  if (!deck) {
-    return <div>Deck not found</div>;
-  }
+  useEffect(() => {
+    import(`./data/${deckId}.json`)
+      .then((module) => {
+        setContent(module.default);
+      })
+      .catch((error) => {
+        console.error(`Failed to load JSON data for ${deckId}:`, error);
+      });
+  }, [deckId]);
+
+  const grouped = groupBy(content, "group");
+  const groupKeys = Object.keys(grouped).sort((a, b) => Number(a) - Number(b));
 
   return (
-    <div className="content dpul-deck">
-      <h1>{deck.title}</h1>
-      <p>{deck.description}</p>
+    <div className="content dpul-bg">
+      {groupKeys.map((groupKey) => (
+        <GroupedBlock key={groupKey} items={grouped[groupKey]} />
+      ))}
     </div>
   );
-}
+};
 
 export default GuideWrapper;

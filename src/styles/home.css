@@ -28,7 +28,6 @@
   text-align: left;
 }
 
-/* Right side icon & nav links */
 .icon-section {
   flex: 1;
   text-align: center;
@@ -38,6 +37,15 @@
   width: 50%;
   border-radius: 12px;
   margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .icon-section {
+    display: none !important;
+  }
+  p {
+    text-align: left;
+  }
 }
 
 .nav-links {

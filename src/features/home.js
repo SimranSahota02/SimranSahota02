@@ -27,13 +27,37 @@ function Home() {
             <h2>Where else to find me!</h2>
             <p style={{ textAlign: "justify" }}>
               My Twitter:{" "}
-              <a href="https://x.com/eeegbeeg" target="_blank">
+              <a href="https://x.com/eeegbeeg" target="_blank" rel="noreferrer">
                 eeegbeeg
+              </a>
+            </p>
+            <p style={{ textAlign: "justify" }}>
+              My Limitless:{" "}
+              <a
+                href="https://limitlesstcg.com/players/8693"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Simran Sahota
+              </a>
+            </p>
+            <p style={{ textAlign: "justify" }}>
+              My CardMarkt:{" "}
+              <a
+                href="https://www.cardmarket.com/en/Pokemon/Users/GIbleguy"
+                target="_blank"
+                rel="noreferrer"
+              >
+                GibleGuy
               </a>
             </p>
             <p className="belowpad">
               My Youtube:{" "}
-              <a href="https://www.youtube.com/@SharpedoBluff" target="_blank">
+              <a
+                href="https://www.youtube.com/@SharpedoBluff"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Sharpedo Bluff
               </a>
             </p>
@@ -45,54 +69,54 @@ function Home() {
         </div>
 
         <div className="icon-section">
-          <img src={require(`../images/homepage/icon.jpg`)} />
+          <img src={require(`../images/homepage/icon.jpg`)} alt="" />
         </div>
       </div>
       <div className="bottom">
         <div className="image-gallery">
           <div className="image-wrapper">
-            <img src={require("../images/homepage/image1.jpg")} />
+            <img src={require("../images/homepage/image1.jpg")} alt="" />
             <div className="overlay">Playing EUIC 2025</div>
           </div>
           <div className="image-wrapper">
-            <img src={require("../images/homepage/image2.jpg")} />
+            <img src={require("../images/homepage/image2.jpg")} alt="" />
             <div className="overlay">At Utrecht SPE 2025</div>
           </div>
           <div className="image-wrapper">
-            <img src={require("../images/homepage/image3.jpg")} />
+            <img src={require("../images/homepage/image3.jpg")} alt="" />
             <div className="overlay">Birmingham Regionals 2025</div>
           </div>
           <div className="image-wrapper">
-            <img src={require("../images/homepage/image4.jpg")} />
+            <img src={require("../images/homepage/image4.jpg")} alt="" />
             <div className="overlay">Playing EUIC 2024</div>
           </div>
           <div className="image-wrapper">
-            <img src={require("../images/homepage/image5.jpg")} />
+            <img src={require("../images/homepage/image5.jpg")} alt="" />
             <div className="overlay">Sign the slip, mr world champ...</div>
           </div>
           <div className="image-wrapper">
-            <img src={require("../images/homepage/image6.jpg")} />
+            <img src={require("../images/homepage/image6.jpg")} alt="" />
             <div className="overlay">Routing a dead hand in Utrecht Day 2</div>
           </div>
           <div className="image-wrapper">
-            <img src={require("../images/homepage/image7.jpg")} />
+            <img src={require("../images/homepage/image7.jpg")} alt="" />
             <div className="overlay">
-              Team exeter at Birmingham Regionals 2025
+              Team Exeter at Birmingham Regionals 2025
             </div>
           </div>
           <div className="image-wrapper">
-            <img src={require("../images/homepage/image8.jpg")} />
+            <img src={require("../images/homepage/image8.jpg")} alt="" />
             <div className="overlay">
               Playing my first win&in in Lille 2024 vs Lucian!
             </div>
           </div>
           <div className="image-wrapper">
-            <img src={require("../images/homepage/image9.jpg")} />
+            <img src={require("../images/homepage/image9.jpg")} alt="" />
             <div className="overlay">Suited tf up to play some SUM-LOT</div>
           </div>
           <div className="image-wrapper">
-            <img src={require("../images/homepage/image10.jpg")} />
-            <div className="overlay">My first two retro decks</div>
+            <img src={require("../images/homepage/image10.jpg")} alt="" />
+            <div className="overlay">BgUK at Birmingham Regionals 2025</div>
           </div>
         </div>
       </div>

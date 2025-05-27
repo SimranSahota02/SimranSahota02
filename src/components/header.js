@@ -1,18 +1,28 @@
-import React from "react";
+import React, { useState } from "react";
 import "../styles/navbar.css";
 import { Link, useLocation } from "react-router-dom";
 
 function Header() {
+  const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
+
+  const toggleMenu = () => setIsOpen(!isOpen);
+
   return (
     <header className="header">
       <Link to="" className="gohome"></Link>
-      <nav className="navbar">
+
+      <button className="hamburger" onClick={toggleMenu}>
+        ☰
+      </button>
+
+      <nav className={`navbar ${isOpen ? "open" : ""}`}>
         <Link
           to="rs-pk"
           className={`rspk-ref ${
             location.pathname === "/rs-pk" ? "active" : ""
           }`}
+          onClick={() => setIsOpen(false)}
         >
           2007 RS-PK
         </Link>
@@ -21,6 +31,7 @@ function Header() {
           className={`dpul-ref ${
             location.pathname === "/dp-ul" ? "active" : ""
           }`}
+          onClick={() => setIsOpen(false)}
         >
           2010 DP-UL
         </Link>
@@ -29,6 +40,7 @@ function Header() {
           className={`bwplf-ref ${
             location.pathname === "/bw-plf" ? "active" : ""
           }`}
+          onClick={() => setIsOpen(false)}
         >
           2013 BW-PLF
         </Link>
@@ -37,6 +49,7 @@ function Header() {
           className={`xysts-ref ${
             location.pathname === "/xy-sts" ? "active" : ""
           }`}
+          onClick={() => setIsOpen(false)}
         >
           2016 XY-STS
         </Link>
@@ -45,6 +58,7 @@ function Header() {
           className={`sumlot-ref ${
             location.pathname === "/sum-lot" ? "active" : ""
           }`}
+          onClick={() => setIsOpen(false)}
         >
           2018 SUM-LOT
         </Link>
@@ -53,15 +67,10 @@ function Header() {
           className={`bstpaf-ref ${
             location.pathname === "/bst-paf" ? "active" : ""
           }`}
+          onClick={() => setIsOpen(false)}
         >
           2023 BST-PAF
         </Link>
-        {/* <Link
-          to="glc"
-          className={`glc-ref ${location.pathname === "/glc" ? "active" : ""}`}
-        >
-          GLC
-        </Link> */}
       </nav>
     </header>
   );
