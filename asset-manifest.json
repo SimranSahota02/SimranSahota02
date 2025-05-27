@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/SimranSahota02/static/css/main.50081c9b.css",
-    "main.js": "/SimranSahota02/static/js/main.b19393c0.js",
+    "main.css": "/SimranSahota02/static/css/main.b47ff63f.css",
+    "main.js": "/SimranSahota02/static/js/main.7a7c3d2f.js",
+    "static/js/138.f6525b8e.chunk.js": "/SimranSahota02/static/js/138.f6525b8e.chunk.js",
     "static/js/151.a5e2097c.chunk.js": "/SimranSahota02/static/js/151.a5e2097c.chunk.js",
     "static/media/home.jpg": "/SimranSahota02/static/media/home.367cc5ca1e614fd3edb5.jpg",
     "static/media/image1.jpg": "/SimranSahota02/static/media/image1.54cae712c4f878740608.jpg",
-    "static/media/image10.jpg": "/SimranSahota02/static/media/image10.59785d6fa848317e2eb7.jpg",
+    "static/media/image10.jpg": "/SimranSahota02/static/media/image10.cbd737a1f9f77e890d5c.jpg",
     "static/media/image8.jpg": "/SimranSahota02/static/media/image8.ed8fccc4578e753f7dbd.jpg",
     "static/media/image5.jpg": "/SimranSahota02/static/media/image5.46130d0f9dbae048d85e.jpg",
     "static/media/image3.jpg": "/SimranSahota02/static/media/image3.30b7e98088821908d42f.jpg",
@@ -13,19 +14,18 @@
     "static/media/dp-ul.jpg": "/SimranSahota02/static/media/dp-ul.a1e74bd59e2b64f9a939.jpg",
     "static/media/image7.jpg": "/SimranSahota02/static/media/image7.09cd9676e9cf9757575e.jpg",
     "static/media/image6.jpg": "/SimranSahota02/static/media/image6.290ea5f7270718388201.jpg",
-    "static/media/throw.gif": "/SimranSahota02/static/media/throw.7cf2c63c41c455bfc3c8.gif",
     "static/media/image4.jpg": "/SimranSahota02/static/media/image4.aedaa94ecab65cecba09.jpg",
     "static/media/image9.jpg": "/SimranSahota02/static/media/image9.a4ac8a37b3fec37a07a8.jpg",
     "static/media/image2.jpg": "/SimranSahota02/static/media/image2.06895ccd1efe37e05f5d.jpg",
     "static/media/gohome.png": "/SimranSahota02/static/media/gohome.eacd51c4abf5aba5150b.png",
     "static/media/icon.jpg": "/SimranSahota02/static/media/icon.d4d1b64f24f3e3bc27ee.jpg",
     "index.html": "/SimranSahota02/index.html",
-    "main.50081c9b.css.map": "/SimranSahota02/static/css/main.50081c9b.css.map",
-    "main.b19393c0.js.map": "/SimranSahota02/static/js/main.b19393c0.js.map",
+    "main.b47ff63f.css.map": "/SimranSahota02/static/css/main.b47ff63f.css.map",
+    "main.7a7c3d2f.js.map": "/SimranSahota02/static/js/main.7a7c3d2f.js.map",
     "151.a5e2097c.chunk.js.map": "/SimranSahota02/static/js/151.a5e2097c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50081c9b.css",
-    "static/js/main.b19393c0.js"
+    "static/css/main.b47ff63f.css",
+    "static/js/main.7a7c3d2f.js"
   ]
 }
