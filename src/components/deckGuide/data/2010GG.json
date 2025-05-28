@@ -3,19 +3,12 @@
     "group": "1",
     "type": "section",
     "title": "Gardevoir Gallade",
-    "paragraph": "This archetype was a powerhouse early in the Diamond & Pearl era, and with the return of Double Colorless Energy in HGSS it made a triumphant return in time for 2010 worlds! Placing second in masters & with 3 total in top 16, this deck is a top-tier threat. Build up Gardevoir behind Spiritomb and lock your opponent out of the game with a well-timed Judge + Psychic Lock combo!"
+    "paragraph": "This archetype was a powerhouse early in the Diamond & Pearl era, and with the return of Double Colorless Energy HS in HGSS it made a triumphant return in time for 2010 worlds! Placing second in masters & with 3 total in top 16, this deck is a top-tier threat. Build up Gardevoir SW behind Spiritomb AR and lock your opponent out of the game with a well-timed Judge UL + Psychic Lock combo!"
   },
   {
     "group": "1",
     "type": "card",
     "id": "dp3-7",
-    "size": "medium",
-    "align": "right"
-  },
-  {
-    "group": "1",
-    "type": "card",
-    "id": "dp3-6",
     "size": "medium",
     "align": "left"
   },
@@ -23,6 +16,6 @@
     "group": "2",
     "type": "section",
     "title": "Strategy Tips",
-    "paragraph": "Use Gallade to pick off threats early."
+    "paragraph": "Use Gallade SW to pick off threats early."
   }
 ]

@@ -14,7 +14,7 @@ const CardHover = ({ name, id }) => {
       {name}
       {hovered && (
         <div className="hover-preview">
-          <CardViewer cardId={id} className="small" />
+          <CardViewer cardId={id} className="large" />
         </div>
       )}
     </span>

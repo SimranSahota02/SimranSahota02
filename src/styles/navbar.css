@@ -1,11 +1,3 @@
-.dpul-bg {
-  background: url("../images/landing/dp-ul.jpg");
-}
-
-.sumlot-bg {
-  background: url("../images/landing/sum-lot.jpg");
-}
-
 .hamburger {
   display: none;
   background: none;
@@ -16,43 +8,6 @@
   color: white;
 }
 
-@media (max-width: 768px) {
-  .hamburger {
-    display: block;
-  }
-
-  .navbar {
-    width: 100%;
-    display: none !important;
-    flex-direction: column;
-    position: absolute;
-    top: 60px;
-    left: 0;
-    right: 0;
-    background-color: rgba(129, 145, 146, 0.97);
-    border-radius: 0 0 16px 16px !important;
-    padding: 1rem 0;
-    z-index: 1001;
-    transform: none;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-  }
-
-  .navbar.open {
-    display: flex !important;
-    align-items: center;
-  }
-
-  .navbar a {
-    width: 180px !important;
-    border-radius: 16px !important;
-    justify-content: center;
-    padding: 1rem 0;
-  }
-
-  .header {
-    justify-content: space-between;
-  }
-}
 .navbar {
   border-radius: 9999px;
   background-color: rgba(129, 145, 146, 0.97);
@@ -187,4 +142,45 @@
 
 .gohome:hover {
   transform: translateY(+1px);
+}
+
+@media (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+
+  .navbar {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease-in-out, padding 0.4s ease-in-out;
+    width: 45%;
+    flex-direction: column;
+    position: absolute;
+    top: 60px;
+    left: auto;
+    right: 0;
+    background-color: rgba(129, 145, 146, 0.97);
+    border-radius: 0 0 16px 16px !important;
+    padding: 0;
+    z-index: 1001;
+    transform: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    align-items: center;
+  }
+
+  .navbar.open {
+    max-height: 400px;
+    padding: 1rem 0;
+  }
+
+  .navbar a {
+    width: 180px !important;
+    border-radius: 16px !important;
+    justify-content: center;
+    padding: 1rem 0;
+  }
+
+  .header {
+    justify-content: space-between;
+  }
 }

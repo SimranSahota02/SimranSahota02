@@ -15,7 +15,7 @@ function App() {
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/dp-ul" element={<DpUl />} />
-      <Route path="/dpul/decks/:deckId" element={<GuideWrapper />} />
+      <Route path="/:format/decks/:deckId" element={<GuideWrapper />} />
       <Route path="/rs-pk" element={<RsPk />} />
       <Route path="/bw-plf" element={<BwPlf />} />
       <Route path="/xy-sts" element={<XySts />} />

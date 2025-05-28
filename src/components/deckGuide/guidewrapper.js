@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import GroupedBlock from "./components/groupedblock";
 import "../../styles/deckguide.css";
@@ -16,7 +16,10 @@ const groupBy = (array, key) => {
 
 const GuideWrapper = () => {
   const { deckId } = useParams();
+  const { format } = useParams();
   const [content, setContent] = useState([]);
+  const grouped = groupBy(content, "group");
+  const groupKeys = Object.keys(grouped).sort((a, b) => Number(a) - Number(b));
 
   useEffect(() => {
     import(`./data/${deckId}.json`)
@@ -28,11 +31,8 @@ const GuideWrapper = () => {
       });
   }, [deckId]);
 
-  const grouped = groupBy(content, "group");
-  const groupKeys = Object.keys(grouped).sort((a, b) => Number(a) - Number(b));
-
   return (
-    <div className="content dpul-bg">
+    <div className={`content ${format}-bg`}>
       {groupKeys.map((groupKey) => (
         <GroupedBlock key={groupKey} items={grouped[groupKey]} />
       ))}

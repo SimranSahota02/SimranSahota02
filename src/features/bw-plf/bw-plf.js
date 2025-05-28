@@ -1,6 +1,5 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "../../styles/tcg-guides.css";
-import FormatPanel from "../../components/formatpanel";
 import CardViewer from "../../components/cardviewer";
 
 function BwPlf() {
@@ -15,7 +14,7 @@ function BwPlf() {
   };
 
   return (
-    <div className="content dpul-bg">
+    <div className="content bwplf-bg">
       <div className="format-panel">
         <form onSubmit={handleSubmit} style={{ textAlign: "center" }}>
           <label htmlFor="card-id">Card ID:</label>
