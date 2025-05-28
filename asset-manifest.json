@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/SimranSahota02/static/css/main.b47ff63f.css",
-    "main.js": "/SimranSahota02/static/js/main.7a7c3d2f.js",
-    "static/js/138.f6525b8e.chunk.js": "/SimranSahota02/static/js/138.f6525b8e.chunk.js",
+    "main.css": "/SimranSahota02/static/css/main.787a578c.css",
+    "main.js": "/SimranSahota02/static/js/main.adc103aa.js",
+    "static/js/138.54817b78.chunk.js": "/SimranSahota02/static/js/138.54817b78.chunk.js",
     "static/js/151.a5e2097c.chunk.js": "/SimranSahota02/static/js/151.a5e2097c.chunk.js",
     "static/media/home.jpg": "/SimranSahota02/static/media/home.367cc5ca1e614fd3edb5.jpg",
     "static/media/image1.jpg": "/SimranSahota02/static/media/image1.54cae712c4f878740608.jpg",
@@ -10,6 +10,8 @@
     "static/media/image8.jpg": "/SimranSahota02/static/media/image8.ed8fccc4578e753f7dbd.jpg",
     "static/media/image5.jpg": "/SimranSahota02/static/media/image5.46130d0f9dbae048d85e.jpg",
     "static/media/image3.jpg": "/SimranSahota02/static/media/image3.30b7e98088821908d42f.jpg",
+    "static/media/xy-sts.jpg": "/SimranSahota02/static/media/xy-sts.f7d8b93fec67e9b11b43.jpg",
+    "static/media/bw-plf.jpg": "/SimranSahota02/static/media/bw-plf.84a94f365461cea9a5fc.jpg",
     "static/media/sum-lot.jpg": "/SimranSahota02/static/media/sum-lot.e0a58e34dcc6679943ff.jpg",
     "static/media/dp-ul.jpg": "/SimranSahota02/static/media/dp-ul.a1e74bd59e2b64f9a939.jpg",
     "static/media/image7.jpg": "/SimranSahota02/static/media/image7.09cd9676e9cf9757575e.jpg",
@@ -20,12 +22,12 @@
     "static/media/gohome.png": "/SimranSahota02/static/media/gohome.eacd51c4abf5aba5150b.png",
     "static/media/icon.jpg": "/SimranSahota02/static/media/icon.d4d1b64f24f3e3bc27ee.jpg",
     "index.html": "/SimranSahota02/index.html",
-    "main.b47ff63f.css.map": "/SimranSahota02/static/css/main.b47ff63f.css.map",
-    "main.7a7c3d2f.js.map": "/SimranSahota02/static/js/main.7a7c3d2f.js.map",
+    "main.787a578c.css.map": "/SimranSahota02/static/css/main.787a578c.css.map",
+    "main.adc103aa.js.map": "/SimranSahota02/static/js/main.adc103aa.js.map",
     "151.a5e2097c.chunk.js.map": "/SimranSahota02/static/js/151.a5e2097c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b47ff63f.css",
-    "static/js/main.7a7c3d2f.js"
+    "static/css/main.787a578c.css",
+    "static/js/main.adc103aa.js"
   ]
 }
