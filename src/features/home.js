@@ -61,6 +61,7 @@ function Home() {
                 Simran TCG
               </a>
             </p>
+            <div style={{ height: "200px" }} />
             <p style={{ textAlign: "justify" }}>
               Site made using React Native, bear with random resolution mobiles
               :p

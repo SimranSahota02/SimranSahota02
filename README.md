@@ -1,3 +1,3 @@
-# Making in effect a repo for my deck collection
+# Making a repo for my deck collection
 
-Build an run with npm start
+Build an run with npm
