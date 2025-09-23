@@ -1,12 +1,7 @@
 import "../../styles/tcg-guides.css";
-import FormatPanel from "../../components/formatpanel";
 
 function SumLot() {
-  return (
-    <div className="content sumlot-bg">
-      <FormatPanel body={"yappayappa"} href={"throw.gif"} />
-    </div>
-  );
+  return <div className="content sumlot-bg"></div>;
 }
 
 export default SumLot;
