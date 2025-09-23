@@ -37,7 +37,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.3.0",
+    "prettier": "^3.6.2"
   },
   "homepage": "https://simransahota02.github.io/SimranSahota02"
 }

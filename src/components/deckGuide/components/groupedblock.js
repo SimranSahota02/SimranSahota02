@@ -1,4 +1,4 @@
-import React from "react";
+import CardBox from "./cardbox";
 import CardViewer from "./cardviewer";
 import CardHover from "./cardhover";
 import cardReferences from "../data/cardrefs.json";
@@ -50,6 +50,12 @@ const GroupedBlock = ({ items }) => {
           const className = `${item.size || ""} ${item.align || ""}`.trim();
           return (
             <CardViewer key={index} cardId={item.id} className={className} />
+          );
+        }
+
+        if (item.type === "cardBox") {
+          return (
+            <CardBox key={index} ids={item.ids} cardSize={item.cardSize} />
           );
         }
 

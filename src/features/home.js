@@ -1,6 +1,6 @@
-import React from "react";
 import "../styles/tcg-guides.css";
 import "../styles/home.css";
+import { Link } from "react-router-dom";
 
 function Home() {
   return (
@@ -58,7 +58,7 @@ function Home() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Sharpedo Bluff
+                Simran TCG
               </a>
             </p>
             <p style={{ textAlign: "justify" }}>
@@ -67,57 +67,8 @@ function Home() {
             </p>
           </div>
         </div>
-
         <div className="icon-section">
           <img src={require(`../images/homepage/icon.jpg`)} alt="" />
-        </div>
-      </div>
-      <div className="bottom">
-        <div className="image-gallery">
-          <div className="image-wrapper">
-            <img src={require("../images/homepage/image1.jpg")} alt="" />
-            <div className="overlay">Playing EUIC 2025</div>
-          </div>
-          <div className="image-wrapper">
-            <img src={require("../images/homepage/image2.jpg")} alt="" />
-            <div className="overlay">At Utrecht SPE 2025</div>
-          </div>
-          <div className="image-wrapper">
-            <img src={require("../images/homepage/image3.jpg")} alt="" />
-            <div className="overlay">Birmingham Regionals 2025</div>
-          </div>
-          <div className="image-wrapper">
-            <img src={require("../images/homepage/image4.jpg")} alt="" />
-            <div className="overlay">Playing EUIC 2024</div>
-          </div>
-          <div className="image-wrapper">
-            <img src={require("../images/homepage/image5.jpg")} alt="" />
-            <div className="overlay">Sign the slip, mr world champ...</div>
-          </div>
-          <div className="image-wrapper">
-            <img src={require("../images/homepage/image6.jpg")} alt="" />
-            <div className="overlay">Routing a dead hand in Utrecht Day 2</div>
-          </div>
-          <div className="image-wrapper">
-            <img src={require("../images/homepage/image7.jpg")} alt="" />
-            <div className="overlay">
-              Team Exeter at Birmingham Regionals 2025
-            </div>
-          </div>
-          <div className="image-wrapper">
-            <img src={require("../images/homepage/image8.jpg")} alt="" />
-            <div className="overlay">
-              Playing my first win&in in Lille 2024 vs Lucian!
-            </div>
-          </div>
-          <div className="image-wrapper">
-            <img src={require("../images/homepage/image9.jpg")} alt="" />
-            <div className="overlay">Suited tf up to play some SUM-LOT</div>
-          </div>
-          <div className="image-wrapper">
-            <img src={require("../images/homepage/image10.jpg")} alt="" />
-            <div className="overlay">BgUK at Birmingham Regionals 2025</div>
-          </div>
         </div>
       </div>
     </div>

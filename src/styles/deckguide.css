@@ -10,9 +10,6 @@
   padding: 15px;
   color: #2f2523;
 }
-.card {
-  margin: 1rem;
-}
 
 .card.medium {
   width: 400px;
@@ -44,6 +41,9 @@
   height: auto;
 }
 
+.deck-section {
+  margin-bottom: 5px;
+}
 .hover-card-name {
   color: #ecde98;
   font-weight: bold;
@@ -59,6 +59,53 @@
   z-index: 999;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  background: #df928e;
+  border-radius: 8px;
+  border: 6px solid #df928e;
+}
+
+.card-box .medium {
+  flex: 0 1 calc(33% - 1rem);
+  max-width: calc(33% - 1rem);
+}
+
+.card-box .small {
+  flex: 1 1 calc(10% - 1rem);
+  max-width: calc(10% - 1rem);
+}
+
+.card-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+.card-modal-content {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 10px;
+  position: relative;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  background: transparent;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
 }
 
 @media (max-width: 768px) {
@@ -79,7 +126,7 @@
   }
 
   .hover-preview {
-    position: fixed !important;
+    position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -88,15 +135,17 @@
     max-height: 100%;
     padding: 0;
     background: none;
+    border: none;
     border-radius: 0;
     box-shadow: none;
     z-index: 1000;
   }
 
   .card.large {
-    background: rgb(233, 226, 73);
-    border-radius: 3px;
-    border: 2px solid rgb(233, 226, 73);
+    background: #df928e;
+    border-radius: 8px;
+    border: 10px solid #df928e;
     width: 100%;
+    height: 100%;
   }
 }
