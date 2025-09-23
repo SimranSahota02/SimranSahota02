@@ -1,0 +1,32 @@
+.deck-article {
+  padding: 1rem;
+}
+
+.deck-article img {
+  max-width: 100%;
+  display: block;
+  margin: 1rem auto;
+}
+
+.deck-article .image-caption {
+  font-style: italic;
+  text-align: center;
+  margin-top: -0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.deck-article h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.deck-article h2 {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.deck-article p {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
