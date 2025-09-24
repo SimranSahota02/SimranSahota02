@@ -2,11 +2,19 @@ import "../../styles/tcg-guides.css";
 import { Link } from "react-router-dom";
 
 function RsPk() {
+  const decks = ["BombTar", "DragTile"];
+
   return (
     <div className="content rs-pk-bg">
       <div className="top-section">
         <div className="textbox">
-          <Link to="/rs-pk/decks/bombtar">BombTar</Link>
+          {decks.map((deckName) => (
+            <li key={deckName}>
+              <Link to={`/rs-pk/decks/${deckName.toLowerCase()}`}>
+                {deckName}
+              </Link>
+            </li>
+          ))}
         </div>
       </div>
     </div>

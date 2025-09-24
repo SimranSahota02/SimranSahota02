@@ -24,6 +24,11 @@
   color: #9ecfff;
 }
 
+.textbox li {
+  list-style: none;
+  margin-bottom: 0.5rem;
+}
+
 .textbox a:visited {
   color: #a8bacc;
 }
