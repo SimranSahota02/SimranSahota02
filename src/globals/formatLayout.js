@@ -1,15 +1,15 @@
 import { Outlet, useLocation } from "react-router-dom";
 
-const FormatLayout = () => {
+function FormatLayout() {
   const location = useLocation();
-  const formatMatch = location.pathname.match(/^\/([\w-]+)/);
-  const format = formatMatch ? formatMatch[1] : null;
+
+  const isRsPkRoute = location.pathname.startsWith("/rs-pk");
 
   return (
-    <div className={`content ${format ? `${format}-bg` : ""}`}>
+    <div className={isRsPkRoute ? "rspk-bg" : ""}>
       <Outlet />
     </div>
   );
-};
+}
 
 export default FormatLayout;

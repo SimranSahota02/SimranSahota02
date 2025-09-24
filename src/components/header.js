@@ -8,6 +8,15 @@ function Header() {
 
   const toggleMenu = () => setIsOpen(!isOpen);
 
+  const navLinks = [
+    { path: "rs-pk", label: "2007 RS-PK", className: "rspk-ref" },
+    { path: "dp-ul", label: "2010 DP-UL", className: "dpul-ref" },
+    { path: "bw-plf", label: "2013 BW-PLF", className: "bwplf-ref" },
+    { path: "xy-sts", label: "2016 XY-STS", className: "xysts-ref" },
+    { path: "sum-lot", label: "2018 SUM-LOT", className: "sumlot-ref" },
+    { path: "bst-paf", label: "2023 BST-PAF", className: "bstpaf-ref" },
+  ];
+
   return (
     <header className="header">
       <Link to="" className="gohome"></Link>
@@ -17,60 +26,16 @@ function Header() {
       </button>
 
       <nav className={`navbar ${isOpen ? "open" : ""}`}>
-        <Link
-          to="rs-pk"
-          className={`rspk-ref ${
-            location.pathname === "/rs-pk" ? "active" : ""
-          }`}
-          onClick={() => setIsOpen(false)}
-        >
-          2007 RS-PK
-        </Link>
-        <Link
-          to="dp-ul"
-          className={`dpul-ref ${
-            location.pathname === "/dp-ul" ? "active" : ""
-          }`}
-          onClick={() => setIsOpen(false)}
-        >
-          2010 DP-UL
-        </Link>
-        <Link
-          to="bw-plf"
-          className={`bwplf-ref ${
-            location.pathname === "/bw-plf" ? "active" : ""
-          }`}
-          onClick={() => setIsOpen(false)}
-        >
-          2013 BW-PLF
-        </Link>
-        <Link
-          to="xy-sts"
-          className={`xysts-ref ${
-            location.pathname === "/xy-sts" ? "active" : ""
-          }`}
-          onClick={() => setIsOpen(false)}
-        >
-          2016 XY-STS
-        </Link>
-        <Link
-          to="sum-lot"
-          className={`sumlot-ref ${
-            location.pathname === "/sum-lot" ? "active" : ""
-          }`}
-          onClick={() => setIsOpen(false)}
-        >
-          2018 SUM-LOT
-        </Link>
-        <Link
-          to="bst-paf"
-          className={`bstpaf-ref ${
-            location.pathname === "/bst-paf" ? "active" : ""
-          }`}
-          onClick={() => setIsOpen(false)}
-        >
-          2023 BST-PAF
-        </Link>
+        {navLinks.map(({ path, label, className }) => (
+          <Link
+            key={path}
+            to={path}
+            className={`${className} ${location.pathname.startsWith(`/${path}`) ? "active" : ""}`}
+            onClick={() => setIsOpen(false)}
+          >
+            {label}
+          </Link>
+        ))}
       </nav>
     </header>
   );
