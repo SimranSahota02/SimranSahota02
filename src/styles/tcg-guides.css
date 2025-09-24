@@ -10,25 +10,25 @@
   text-align: left;
 }
 
-.dpul-bg {
+.dp-ul-bg {
   background:
     linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)),
     url("../images/landing/dp-ul.jpg") !important;
 }
 
-.sumlot-bg {
+.sum-lot-bg {
   background: url("../images/landing/sum-lot.jpg") !important;
 }
 
-.xysts-bg {
+.xy-sts-bg {
   background: url("../images/landing/xy-sts.jpg") !important;
 }
 
-.bwplf-bg {
+.bw-plf-bg {
   background: url("../images/landing/bw-plf.jpg") !important;
 }
 
-.rspk-bg {
+.rs-pk-bg {
   background: url("../images/landing/rs-pk.jpg") !important;
 }
 
