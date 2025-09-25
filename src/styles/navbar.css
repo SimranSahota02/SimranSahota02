@@ -111,6 +111,16 @@
   background: url("../images/nav/bst-paf.jpg");
 }
 
+.bsfo-ref.active {
+  opacity: 0.5;
+  background: url("../images/nav/bs-fo.jpg");
+}
+
+.bsfo-ref:hover {
+  opacity: 1;
+  background: url("../images/nav/bs-fo.jpg");
+}
+
 .header {
   width: 100%;
   height: 60px;

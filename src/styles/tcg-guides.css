@@ -32,6 +32,10 @@
   background: url("../images/landing/rs-pk.jpg") !important;
 }
 
+.bst-paf-bg {
+  background: url("../images/landing/bst-paf.jpg") !important;
+}
+
 @keyframes floatIn {
   0% {
     opacity: 0;

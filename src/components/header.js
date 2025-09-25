@@ -30,6 +30,7 @@ function Header() {
   }, [isOpen]);
 
   const navLinks = [
+    { path: "bs-fo", label: "1999 BS-FO", className: "bsfo-ref" },
     { path: "rs-pk", label: "2007 RS-PK", className: "rspk-ref" },
     { path: "dp-ul", label: "2010 DP-UL", className: "dpul-ref" },
     { path: "bw-plf", label: "2013 BW-PLF", className: "bwplf-ref" },

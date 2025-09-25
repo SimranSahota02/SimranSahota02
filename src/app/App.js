@@ -8,6 +8,7 @@ import BstPaf from "../features/bst-paf/bst-paf";
 import RsPk from "../features/rs-pk/rs-pk";
 import XySts from "../features/xy-sts/xy-sts";
 import BwPlf from "../features/bw-plf/bw-plf";
+import BsFo from "../features/bs-fo/bs-fo";
 import DeckRender from "../components/deckRender/deckRender";
 import FormatLayout from "../globals/formatLayout";
 
@@ -24,6 +25,7 @@ function App() {
         <Route path="/sum-lot" element={<SumLot />} />
         <Route path="/bst-paf" element={<BstPaf />} />
         <Route path="/glc" element={<Glc />} />
+        <Route path="/bs-fo" element={<BsFo />} />
       </Route>
     </Routes>
   );
