@@ -77,6 +77,9 @@
 }
 
 .deck-menu {
+  border-color: rgba(54, 54, 54, 1);
+  border-width: 10px;
+  border-style: solid;
   background-color: rgba(58, 58, 58, 1);
   border-radius: 24px;
   position: fixed;

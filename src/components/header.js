@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState, useEffect } from "react";
 import "../styles/navbar.css";
 import { Link, useLocation } from "react-router-dom";
 
@@ -7,6 +7,27 @@ function Header() {
   const location = useLocation();
 
   const toggleMenu = () => setIsOpen(!isOpen);
+
+  useEffect(() => {
+    function handleClickOutside(event) {
+      if (
+        !event.target.closest(".navbar") &&
+        !event.target.classList.contains("hamburger")
+      ) {
+        setIsOpen(false);
+      }
+    }
+
+    if (isOpen) {
+      document.addEventListener("mousedown", handleClickOutside);
+    } else {
+      document.removeEventListener("mousedown", handleClickOutside);
+    }
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, [isOpen]);
 
   const navLinks = [
     { path: "rs-pk", label: "2007 RS-PK", className: "rspk-ref" },

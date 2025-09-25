@@ -8,13 +8,16 @@
 }
 
 .blurb {
-  flex: 2;
+  flex: 0 1 43%;
   padding-right: 1rem;
 }
 
 .textbox {
   border-radius: 24px;
   background-color: rgba(58, 58, 58, 1);
+  border-color: rgba(54, 54, 54, 1);
+  border-width: 10px;
+  border-style: solid;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   padding: 1.5rem;
   color: aliceblue;
@@ -53,12 +56,64 @@
   margin-bottom: 1rem;
 }
 
+.three-panel {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  width: 80vw;
+  margin: 6rem auto 2rem auto;
+  text-align: center;
+}
+
+.panel {
+  flex: 1 1 30%;
+  max-width: 30%;
+  aspect-ratio: 1 / 1;
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+.panel li a {
+  display: inline-flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  text-decoration: none;
+  width: 50%;
+}
+
+.panel li a img {
+  right: 0;
+  height: 2em;
+  width: auto;
+  margin-left: 2px;
+}
+
+.panel p {
+  text-align: left;
+}
+
 @media (max-width: 768px) {
   .icon-section {
     display: none !important;
   }
   p {
     text-align: left;
+  }
+  .blurb {
+    flex: 3 1 60%;
+    padding-right: 0rem;
+  }
+
+  .three-panel {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .panel {
+    max-width: 90%;
+    width: 90%;
   }
 }
 
@@ -81,14 +136,6 @@
   min-height: 200px;
 }
 
-.image-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16px;
-  justify-content: center;
-  padding: 20px;
-}
-
 @keyframes flyInFromBottom {
   from {
     opacity: 0;
@@ -98,30 +145,6 @@
     opacity: 1;
     transform: translateY(0);
   }
-}
-
-.image-wrapper {
-  position: relative;
-  width: 300px;
-  height: 225px;
-  overflow: hidden;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
-  animation: flyInFromBottom 0.6s ease-out both;
-}
-
-.image-wrapper img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-  transition: transform 0.3s ease;
-  border: 4px solid white;
-  box-sizing: border-box;
-}
-
-.image-wrapper:hover img {
-  transform: scale(1.05);
 }
 
 .overlay {
@@ -136,8 +159,4 @@
   font-size: 14px;
   opacity: 0;
   transition: opacity 0.3s ease;
-}
-
-.image-wrapper:hover .overlay {
-  opacity: 1;
 }

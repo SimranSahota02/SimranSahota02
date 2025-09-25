@@ -153,7 +153,6 @@
 
   .navbar {
     max-height: 0;
-    overflow: hidden;
     transition:
       max-height 0.4s ease-in-out,
       padding 0.4s ease-in-out;
@@ -164,16 +163,16 @@
     right: 0;
     background-color: rgba(58, 58, 58, 1);
     border-radius: 0 0 16px 16px !important;
-
-    z-index: 1001;
+    overflow: hidden;
     transform: none;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     align-items: center;
   }
 
   .navbar.open {
-    max-height: 400px;
-    padding: 1rem 0;
+    max-height: 1000px;
+    padding: 0.2rem 0;
+    z-index: 1100;
   }
 
   .navbar a {
