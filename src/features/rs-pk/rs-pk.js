@@ -2,7 +2,7 @@ import "../../styles/tcg-guides.css";
 import { Link } from "react-router-dom";
 
 function RsPk() {
-  const decks = ["BombTar", "DragTile", "Imprison"];
+  const decks = ["BombTar", "DragTile", "Imprison", "RayLer"];
 
   return (
     <div className="content rs-pk-bg">
