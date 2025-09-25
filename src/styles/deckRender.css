@@ -1,0 +1,148 @@
+.deck-article-container {
+  display: flex;
+  justify-content: center;
+  margin: 2rem auto 2rem auto;
+  width: 100%;
+}
+
+.deck-article {
+  width: 80%;
+  max-width: 1050px;
+  background-color: rgba(58, 58, 58, 1);
+
+  border-radius: 24px;
+  color: aliceblue;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  animation: flyInFromBottom 0.5s ease-out;
+}
+
+.deck-article h1,
+.deck-article h2,
+.deck-article p {
+  margin-bottom: 1rem;
+}
+
+.deck-article a {
+  align-items: center;
+  color: #9ecfff;
+}
+
+.deck-article a:visited {
+  color: #a8bacc;
+}
+
+.deck-article h1 {
+  font-size: 3.5rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.deck-article h2 {
+  font-size: 2rem;
+  text-align: left;
+  margin-top: 1.5rem;
+}
+
+.deck-article p {
+  font-size: 1rem;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.deck-article img {
+  display: block;
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.deck-article .image-caption {
+  font-size: 0.9rem;
+  font-style: italic;
+  text-align: center;
+  margin-top: -1.5rem;
+  margin-bottom: 2rem;
+  opacity: 0.8;
+}
+
+.deck-wrapper {
+  display: flex;
+  position: relative;
+  width: 100%;
+  justify-content: center;
+}
+
+.deck-menu {
+  background-color: rgba(58, 58, 58, 1);
+  border-radius: 24px;
+  position: fixed;
+  top: 250px;
+  left: 0px;
+  z-index: 100;
+  padding: 2rem;
+}
+
+.deck-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.deck-menu li {
+  margin-bottom: 1rem;
+}
+
+.deck-menu li.title a {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.deck-menu li.subheading a {
+  font-size: 0.95rem;
+  padding-left: 10px;
+}
+
+.deck-menu a {
+  display: inline-block;
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.deck-menu a:hover {
+  transform: scale(0.95);
+  transition: transform 0.2s ease;
+}
+
+@media (max-width: 768px) {
+  .deck-article {
+    width: 90%;
+    padding: 1.5rem;
+  }
+
+  .deck-article h1 {
+    font-size: 1.6rem;
+  }
+
+  .deck-article h2 {
+    font-size: 1.3rem;
+  }
+
+  .deck-article p {
+    font-size: 0.95rem;
+  }
+
+  .deck-article img {
+    width: 90%;
+  }
+  .deck-menu {
+    display: none;
+  }
+
+  .deck-article-container {
+    margin-left: 0;
+  }
+}
