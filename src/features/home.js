@@ -26,17 +26,13 @@ function Home() {
             <h2>Where else to find me!</h2>
             <p style={{ textAlign: "justify" }}>
               My Twitter:{" "}
-              <a href="https://x.com/eeegbeeg" target="_blank" rel="noreferrer">
+              <a href="https://x.com/eeegbeeg" target="_blank">
                 eeegbeeg
               </a>
             </p>
             <p style={{ textAlign: "justify" }}>
               My Limitless:{" "}
-              <a
-                href="https://limitlesstcg.com/players/8693"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="https://limitlesstcg.com/players/8693" target="_blank">
                 Simran Sahota
               </a>
             </p>
@@ -45,18 +41,13 @@ function Home() {
               <a
                 href="https://www.cardmarket.com/en/Pokemon/Users/GIbleguy"
                 target="_blank"
-                rel="noreferrer"
               >
                 GibleGuy
               </a>
             </p>
             <p className="belowpad">
               My Youtube:{" "}
-              <a
-                href="https://www.youtube.com/@SharpedoBluff"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="https://www.youtube.com/@SharpedoBluff" target="_blank">
                 Simran TCG
               </a>
             </p>

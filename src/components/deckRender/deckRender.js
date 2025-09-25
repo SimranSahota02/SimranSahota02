@@ -28,12 +28,7 @@ const blockRenderers = {
     />
   ),
   link: (block, i) => (
-    <a
-      key={i}
-      href={`https://${block.href}`}
-      target="_blank"
-      rel="noopener noreferrer"
-    >
+    <a key={i} href={`https://${block.href}`} target="_blank">
       {block.content}
     </a>
   ),

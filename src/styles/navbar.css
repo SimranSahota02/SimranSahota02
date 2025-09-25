@@ -152,6 +152,7 @@
   }
 
   .navbar {
+    height: auto;
     max-height: 0;
     transition:
       max-height 0.4s ease-in-out,
@@ -160,7 +161,7 @@
     flex-direction: column;
     position: absolute;
     left: auto;
-    right: 0;
+    right: 0.1rem;
     background-color: rgba(58, 58, 58, 1);
     border-radius: 0 0 16px 16px !important;
     overflow: hidden;
