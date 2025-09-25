@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/SimranSahota02/static/css/main.097e5fe6.css",
-    "main.js": "/SimranSahota02/static/js/main.f69fd6ad.js",
+    "main.css": "/SimranSahota02/static/css/main.f03e4717.css",
+    "main.js": "/SimranSahota02/static/js/main.c71c0553.js",
+    "static/js/16.378a277e.chunk.js": "/SimranSahota02/static/js/16.378a277e.chunk.js",
+    "static/js/583.d548de8d.chunk.js": "/SimranSahota02/static/js/583.d548de8d.chunk.js",
+    "static/js/580.de98c572.chunk.js": "/SimranSahota02/static/js/580.de98c572.chunk.js",
+    "static/js/854.0b8ada17.chunk.js": "/SimranSahota02/static/js/854.0b8ada17.chunk.js",
     "static/js/151.a5e2097c.chunk.js": "/SimranSahota02/static/js/151.a5e2097c.chunk.js",
     "static/media/icon.jpg": "/SimranSahota02/static/media/icon.982b88783bf336787b90.jpg",
     "static/media/home.jpg": "/SimranSahota02/static/media/home.d0969d904b7abd8897b5.jpg",
+    "static/media/rs-pk.jpg": "/SimranSahota02/static/media/rs-pk.e70a327fb38e51ce7ecc.jpg",
     "static/media/xy-sts.jpg": "/SimranSahota02/static/media/xy-sts.f67b492bbd43fd15616f.jpg",
     "static/media/bw-plf.jpg": "/SimranSahota02/static/media/bw-plf.4993dffc09f86b454295.jpg",
     "static/media/dp-ul.jpg": "/SimranSahota02/static/media/dp-ul.04c2e49102182461bd0b.jpg",
     "static/media/sum-lot.jpg": "/SimranSahota02/static/media/sum-lot.14ed0ad0610db1e08691.jpg",
     "static/media/gohome.png": "/SimranSahota02/static/media/gohome.efaac755e2b5544fea09.png",
     "index.html": "/SimranSahota02/index.html",
-    "main.097e5fe6.css.map": "/SimranSahota02/static/css/main.097e5fe6.css.map",
-    "main.f69fd6ad.js.map": "/SimranSahota02/static/js/main.f69fd6ad.js.map",
+    "main.f03e4717.css.map": "/SimranSahota02/static/css/main.f03e4717.css.map",
+    "main.c71c0553.js.map": "/SimranSahota02/static/js/main.c71c0553.js.map",
     "151.a5e2097c.chunk.js.map": "/SimranSahota02/static/js/151.a5e2097c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.097e5fe6.css",
-    "static/js/main.f69fd6ad.js"
+    "static/css/main.f03e4717.css",
+    "static/js/main.c71c0553.js"
   ]
 }
