@@ -26,7 +26,7 @@ function RsPk() {
           </p>
           <p>
             <a href="https://ptcgarchive.com/rs-pk-decks/" target="_blank">
-              PTCG Archive RSPK
+              PTCG Archive RS-PK Decks
             </a>
           </p>
           <p>

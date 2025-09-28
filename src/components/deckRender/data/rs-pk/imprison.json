@@ -69,16 +69,20 @@
     "content": "Decklist on LimitlessTCG"
   },
   {
+    "type": "paragraph",
+    "content": "Decklist credit goes to Erik Reeds, who developed and popularised this build of Imprison."
+  },
+  {
     "type": "heading",
     "content": "Core Pokemon"
   },
   {
     "type": "subheading",
-    "content": "(2-2)-2-(2-2) Ralts, Kirlia, Gardevoir δ & Gardevoir ex δ"
+    "content": "(2-2)-(1-1)-(2-2) Ralts, Kirlia, Gardevoir δ & Gardevoir ex δ"
   },
   {
     "type": "paragraph",
-    "content": "You don’t need an overwhelming amount of Ralts on the board early, two is often enough. “Psychic Boom” and “Hypnosis” are both relevant attacks on the Psychic Ralts, whereas Ralts δ aids Castform draws. Save Rare Candy where possible with Kirlia, it is better at times to have a Kirlia on board than pre-emptively evolving to either Gardevoir and finding out after that you need the other Gardevoir."
+    "content": "You don’t need an overwhelming amount of Ralts on the board early, two is often enough. “Psychic Boom” and “Hypnosis” are both relevant attacks on the Psychic Ralts, whereas Ralts δ aids Castform draws. Psychic Kirlia also has “Psychic Boom” for the RaiEggs and Scrambled Eggs matchups. Save Rare Candy where possible with Kirlia, it is better at times to have a Kirlia on board than pre-emptively evolving to either Gardevoir and finding out after that you need the other Gardevoir."
   },
   {
     "type": "image",
@@ -187,6 +191,14 @@
   {
     "type": "imageCaption",
     "content": "One of these three will show up in every match"
+  },
+  {
+    "type": "subheading",
+    "content": "1 Stantler"
+  },
+  {
+    "type": "paragraph",
+    "content": "A decent Pokemon to open, Stantler's “Push Away” allows you to progress your board without taking prizes, trying to snipe pesky Pow! Hand Extension out of your opponents hand in slow matchups such as Sceptile and Bombtar."
   },
   {
     "type": "heading",

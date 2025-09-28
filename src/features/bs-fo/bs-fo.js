@@ -11,6 +11,14 @@ function BsFo() {
         <ListDecks decks={decks} format={format} />
         <div className="panel textbox">
           <h1>Format Resources</h1>
+          <p>
+            <a
+              href="https://ptcgarchive.com/wotc-decks/base-fossil/"
+              target="_blank"
+            >
+              PTCG Archive BS-FO Decks
+            </a>
+          </p>
         </div>
 
         <div className="panel textbox">

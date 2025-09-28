@@ -7,10 +7,12 @@ const ListDecks = ({ decks, format }) => {
       <ul>
         {decks.map((deckName) => (
           <li key={deckName}>
-            <Link to={`/${format}/decks/${deckName.toLowerCase()}`}>
+            <Link
+              to={`/${format}/decks/${deckName.toLowerCase().replace(/\s+/g, "")}`}
+            >
               {deckName}
               <img
-                src={`${process.env.PUBLIC_URL}/decks/${format}/${deckName.toLowerCase()}/pixel.png`}
+                src={`${process.env.PUBLIC_URL}/decks/${format}/${deckName.toLowerCase().replace(/\s+/g, "")}/pixel.png`}
                 alt={""}
               />
             </Link>

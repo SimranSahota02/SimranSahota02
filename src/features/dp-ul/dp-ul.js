@@ -11,6 +11,11 @@ function DpUl() {
         <ListDecks decks={decks} format={format} />
         <div className="panel textbox">
           <h1>Format Resources</h1>
+          <p>
+            <a href="https://ptcgarchive.com/2010-decks/" target="_blank">
+              PTCG Archive 2010 Decks
+            </a>
+          </p>
         </div>
 
         <div className="panel textbox">

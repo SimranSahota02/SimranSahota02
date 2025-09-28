@@ -48,6 +48,10 @@
     "content": "The Deck"
   },
   {
+    "type": "image",
+    "src": "/decks/rs-pk/dragtile/decklist.jpg"
+  },
+  {
     "type": "link",
     "href": "my.limitlesstcg.com/builder?i=10332TRR530332TRR310232TRR150222CG680222CG960222LM680231TRR40222HP440122NP130122DS500121P530122DS380122HL980332TRR860322DS930222HL920222DR870122DS970122HP850422DS980422CG850322HP900332TRR890232TRR840122UF930422EM860422HP97",
     "content": "Decklist on LimitlessTCG"

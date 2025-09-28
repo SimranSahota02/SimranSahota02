@@ -11,6 +11,11 @@ function BwPlf() {
         <ListDecks decks={decks} format={format} />
         <div className="panel textbox">
           <h1>Format Resources</h1>
+          <p>
+            <a href="https://ptcgarchive.com/2013-decks/" target="_blank">
+              PTCG Archive 2013 Decks
+            </a>
+          </p>
         </div>
 
         <div className="panel textbox">

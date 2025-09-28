@@ -2,7 +2,7 @@ import "../../styles/tcg-guides.css";
 import ListDecks from "../../components/listDecks";
 
 function XySts() {
-  const decks = [];
+  const decks = ["Night March"];
   const format = "xy-sts";
 
   return (
@@ -11,6 +11,11 @@ function XySts() {
         <ListDecks decks={decks} format={format} />
         <div className="panel textbox">
           <h1>Format Resources</h1>
+          <p>
+            <a href="https://limitlesstcg.com/tournaments/140" target="_blank">
+              Limitless TCG 2016 Worlds Standings
+            </a>
+          </p>
         </div>
 
         <div className="panel textbox">
