@@ -2,7 +2,7 @@ import "../../styles/tcg-guides.css";
 import ListDecks from "../../components/listDecks";
 
 function XySts() {
-  const decks = ["Night March"];
+  const decks = ["Night March", "M Manectric Garb"];
   const format = "xy-sts";
 
   return (

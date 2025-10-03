@@ -1,0 +1,164 @@
+[
+  {
+    "type": "title",
+    "content": "Mega-Manectric Garbodor"
+  },
+  {
+    "type": "image",
+    "src": "/decks/xy-sts/mmanectricgarb/cover.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "THE KING"
+  },
+  {
+    "type": "heading",
+    "content": "Concept"
+  },
+  {
+    "type": "paragraph",
+    "content": "Pairing strong lock card with a partner unaffected by said lock is a classic in Pokemon, and in this deck respectively Garbodor and Manectric fill those roles. Garbodor's “Garbotoxin” slows down other decks, and with a well timed N your opponent may be left unable to KO M Manectric EX."
+  },
+  {
+    "type": "paragraph",
+    "content": "From there “Turbo Bolt”, Max Potion and Rough Seas will whittle away your opponent's board whilst setting up yours to close the game out with one of your many Lightning-type Dog Pokemon."
+  },
+  {
+    "type": "heading",
+    "content": "The Deck"
+  },
+  {
+    "type": "image",
+    "src": "/decks/xy-sts/mmanectricgarb/decklist.jpg"
+  },
+  {
+    "type": "link",
+    "href": "https://play.limitlesstcg.com/tournament/67b2475b78c0b32318816f00/player/teafew/decklist",
+    "content": "Decklist on LimitlessTCG"
+  },
+  {
+    "type": "paragraph",
+    "content": "List credit goes to Teafew at online mickey."
+  },
+  {
+    "type": "heading",
+    "content": "Core Pokemon"
+  },
+  {
+    "type": "subheading",
+    "content": "3-3 Manectric EX, MManectric EX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Manectric EX is not the main attacker in the deck, but its “Assault Laser” attack situationaly deals 120 Damage. Accelerating to a Manectric EX with Max Elixir or “Turbo Bolt” is often the correct, even when you have no access to a Manectric Spirit Link. M Manectric itself is bulky, efficient attacker. The damage output of Turbo Bolt is relatively low, but 210HP paired with free retreat and energy recursion allows you to poke, switch and heal. Make sure to play Spirit Links on your Manectric EXs to avoid ending your turn when evolving into M Manectric EX, and note that Max Elixir can only target Basic Pokemon."
+  },
+  {
+    "type": "subheading",
+    "content": "2-2 Trubbish, Garbodor"
+  },
+  {
+    "type": "paragraph",
+    "content": "Garbodor is central to the decks strategy in a wide range of matchups. It shuts off Shaymin EX, Volcanion EX, Yveltal BKT, Greninja BREAK and Giratina EX to name a few. But you only need 1 on board, and so the deck plays a 2-2 line, such that you might bench both to guarantee that a Garbodor will come into play on the following turn. Although you want Float Stone attached to your Garbodor for free retreat, it can be useful to throw a Manectric Spirit Link on it to activate “Garbotoxin” when you are short of options."
+  },
+  {
+    "type": "image",
+    "src": "/decks/xy-sts/mmanectricgarb/attacking.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Prep attackers to accelerate to"
+  },
+  {
+    "type": "subheading",
+    "content": "1 Raikou"
+  },
+  {
+    "type": "paragraph",
+    "content": "Raikou is often used as a weak 1 Prize attacker to offset the prize trade, but also helps with one of the decks other weaknesses - it can hit quite comfortably over 110 Damage. After one “Turbo Bolt” and a hand attachment Raikou's “Thunder Lance” will be doing 110 Damage, which can upped by Max Elixirs and more “Turbo Bolt”. Raikou can notably attack for [C][C][C], which makes it DCE compatible, although its damage does not scale with non-Lightning Energy."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Jolteon EX"
+  },
+
+  {
+    "type": "paragraph",
+    "content": "Jolteon is here to use “Flash Ray”. This attack completely walls the Basic EX decks of the format, and decks like Night March also take some fire. As the attack cost is [L][C][C] you can use a Max Elixir and DCE to power up Jolteon EX in one turn, though most likely you'll end up using “Turbo Bolt” to get the Energy on Jolteon EX. Be wary of decks playing Pokemon Ranger, which will remove the effect of “Flash Ray”. As such put Garbodor into play, play an N and use “Flash Ray” to completely flip a game on its head as your opponent scrambles to find a Pokemon Ranger."
+  },
+  {
+    "type": "image",
+    "src": "/decks/xy-sts/mmanectricgarb/jolteon.jpg"
+  },
+  {
+    "type": "heading",
+    "content": "Support Pokemon"
+  },
+  {
+    "type": "paragraph",
+    "content": "As the deck intends to play most matches under Ability Lock, very few Pokemon are dedicated support, although the power of these immensly powerful Pokemon makes them worth playing as 1-ofs to use as a bailout when called for."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Shaymin EX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Shaymin EX is ubiquitous, a mid-turn hand refresh is sometimes needed to find the game winning play, just be careful as its 110HP makes it an easy target for Lysandre."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Hoopa EX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Hoopa EXs “Scoundrel Ring” searches multiple Manectric EX and sometimes even MManectric EX when needed, and helps guarantee you get those Pokemon in play/evolved when you need to. Hoopa's 2 retreat makes it a target for Lysandre, but its deck thinning and search is too efficient to pass up. Note that if you have a particularly miserable hand Hoopa can search 2 Manectric EX and the Shaymin EX."
+  },
+  {
+    "type": "heading",
+    "content": "Trainers"
+  },
+  {
+    "type": "paragraph",
+    "content": "The play pattern of this deck is split into two halves: set up multiple Manectric EX and Trubbish, and then establish Garbodor and Tank & Heal. As such the deck plays enough dig to let you set up, whilst still leaving enough deck space for disruptive cards that put your opponent in difficult positions."
+  },
+  {
+    "type": "subheading",
+    "content": "Dig Cards"
+  },
+  {
+    "type": "paragraph",
+    "content": "Starting with format staples, the deck plays 4 Sycamore and 2 N, for draw and disruption respectively. As the deck recurs Energy when attacking, having to discard Lightning Energy early is often more help than harm."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Ultra Ball allows the deck to find Garbodor and Manectric EX pieces more consistently whilst dumping Energy from hand. 4 VS Seeker equally help recycle N, Sycamore and other tech Supporters throughout the game. 3 Trainers' Mail can add further dig to find those pieces and make a big turn. The deck also plays a Battle Compressor, discarding either tech Supporters for use with VS Seeker or Lightning Energy to accelerate into play."
+  },
+  {
+    "type": "paragraph",
+    "content": "A Critical part of early turns, 3 Max Elixir let the deck set up the first few Manectric EX or prep other attackers. 1 Super Rod for recovery and 2 Float Stone to attach to Garbodor round out the core of the Trainer cards in the deck."
+  },
+  {
+    "type": "image",
+    "src": "/decks/xy-sts/mmanectricgarb/link.jpg"
+  },
+  {
+    "type": "subheading",
+    "content": "Tech Cards"
+  },
+  {
+    "type": "paragraph",
+    "content": "2 Lysandre allow you to pull up smaller Pokemon EX for easy KOs, specifically Shaymin EX and Pokemon Damaged by “Turbo Bolt”. 1 copy of AZ to remove liability Pokemon such as Shaymin EX and Hoopa EX or even remove a damaged MManectric EX from the board."
+  },
+  {
+    "type": "paragraph",
+    "content": "For healing cards 3 Rough Seas consistently heal MManectric EX as they sit on the bench, but the 2 Max Potion combo cleanly with “Turbo Bolt” to reset damaged MManectric EX. Finally the deck plays 3 Manectric Spirit Link, which are necessary to circumvent the Mega Evolution Rule on MManectric EX."
+  },
+  {
+    "type": "heading",
+    "content": "Energy"
+  },
+  {
+    "type": "paragraph",
+    "content": "The deck plays a solid count of 10 Lightning Energy, having a higher count makes it easier to get them into play or the discard consistently. The deck only plays one Double Colorless Energy, but it is mainly for Jolteon EX."
+  }
+]
