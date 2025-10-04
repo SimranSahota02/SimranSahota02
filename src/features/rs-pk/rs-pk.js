@@ -56,7 +56,24 @@ function RsPk() {
             Burn: Pokemon stays burned between turns. Flip a coin between turns,
             if tails the burned Pokemon takes 20 damage.
           </p>
-          <p>All other conditions same as modern.</p>
+          <p className="belowpad">All other conditions same as modern.</p>
+          <h2>Format Specifics</h2>
+          <p>Pokemon ex - evolve as usual, give up 2 Prizes when KOed.</p>
+          <p>
+            Pokemon Delta - evolve as usual, denoted by δ on the card. Can be
+            dual type or Pokemon ex/Star.
+          </p>
+          <p>
+            Dark Pokemon - Stage 1 Dark Pokemon evolve as usual, but Stage 2s
+            only evolve from the respective Dark Stage 1 Pokemon. Can be dual
+            type. Team Magma/Aqua's Pokemon - evolve from respective Team
+            Magma/Aqua 's previous stage.
+          </p>
+          <p>Pokemon Star - capped at one Pokemon Star per deck.</p>
+          <p>
+            Technical Machines - not Tool cards, and may be attached at the same
+            time as a Tool card.
+          </p>
         </div>
       </div>
     </div>

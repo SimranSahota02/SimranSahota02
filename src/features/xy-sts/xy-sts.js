@@ -33,7 +33,18 @@ function XySts() {
             Burn: Pokemon stays burned between turns. Flip a coin between turns,
             if tails the burned Pokemon takes 20 damage.
           </p>
-          <p>All other conditions same as modern.</p>
+          <p className="belowpad">All other conditions same as modern.</p>
+          <h2>Format Specifics</h2>
+          <p>
+            Pokemon EX are all Basic Pokemon, and give up 2 Prizes when KOed.
+            Pokemon M EX evolve from Pokemon EX and also give up 2 Prizes,
+            additionally your turn ends when evolving into a Pokemon M EX.
+          </p>
+          <p>
+            Pokemon BREAK evolve as usual, can use the attacks and abilities
+            from the stage below the BREAK card and similarly they inherit the
+            Weakness, Resistance and Retreat from the stage below.
+          </p>
         </div>
       </div>
     </div>

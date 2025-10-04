@@ -24,7 +24,16 @@ function SumLot() {
             MAY play Trainer, Tool, Stadium and Supporter cards.
           </p>
           <h2>Special Conditions</h2>
-          <p>All conditions same as modern.</p>
+          <p className="belowpad">All conditions same as modern.</p>
+          <h2>Format Specifics</h2>
+          <p>
+            Pokemon GX - evolve as usual, give up 2 Prizes when KOed and have a
+            GX attack. You may only use one GX attack per game.
+          </p>
+          <p>
+            Prism cards are capped at one of each per deck and go to the Lost
+            Zone when they would be discarded.
+          </p>
         </div>
       </div>
     </div>
