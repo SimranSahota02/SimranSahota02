@@ -2,7 +2,7 @@ import "../../styles/tcg-guides.css";
 import ListDecks from "../../components/listDecks";
 
 function SumLot() {
-  const decks = [];
+  const decks = ["BuzzRocTales", "Gardevoir GX"];
   const format = "sum-lot";
 
   return (
@@ -27,12 +27,16 @@ function SumLot() {
           <p className="belowpad">All conditions same as modern.</p>
           <h2>Format Specifics</h2>
           <p>
-            Pokemon GX - evolve as usual, give up 2 Prizes when KOed and have a
+            Pokemon GX - evolve as usual, give up 2 prizes when KOed and have a
             GX attack. You may only use one GX attack per game.
           </p>
           <p>
             Prism cards are capped at one of each per deck and go to the Lost
             Zone when they would be discarded.
+          </p>
+          <p>
+            Ultra Beasts are denoted by the tag "Ultra Beast" near the top right
+            of the card.
           </p>
         </div>
       </div>

@@ -1,0 +1,158 @@
+[
+  {
+    "type": "title",
+    "content": "BuzzRocTales"
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/buzzroctales/cover.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "I don't care I'm Buzzwole GX I'm going to Jet Punch you"
+  },
+  {
+    "type": "heading",
+    "content": "Concept"
+  },
+  {
+    "type": "paragraph",
+    "content": "The Fighting Type is really well positioned in the Sun & Moon - Lost Thunder format. Well by that what a I mean to say is: the boogeyman Zoroark GX takes double damage from Fighting Pokemon. “Jet Punch” spam from Buzzwole GX picks up KOes on evolving Basic Pokemon, and followed up with a flurry of Beast Ring into a big “Dangerous Rogue GX”, BuzzRoc stays on the front foot throughout the entire game."
+  },
+  {
+    "type": "heading",
+    "content": "The Deck"
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/buzzroctales/decklist.jpg"
+  },
+  {
+    "type": "paragraph",
+    "content": "List credit to Alex Schemanske at LAIC 2018, -1 Girafarig +1 Ditto {*}."
+  },
+  {
+    "type": "heading",
+    "content": "Pokemon"
+  },
+  {
+    "type": "subheading",
+    "content": "4 Buzzwole GX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Buzzwole GX is the premier turn 1 Attacker in the deck, so playing a max 4 count of it helps get “Jet Punch” online ASAP. With both Beast Energy {*} and Diance {*} “Jet Punch” can do a staggering 80 Damage to the Active Pokemon, which maxes at an insane 130 Damage with Choice Band and Professor Kukui thrown into the mix. “Jet Punch” should mainly be used to KO evolving Basic Pokemon before they get online."
+  },
+  {
+    "type": "paragraph",
+    "content": "“Knuckle Impact” and “Absorption GX” are both much harder to power up, usually requiring a Beast Ring to actually get online. “Knuckle Impact” is a strong option to take OHKOs on Pokemon GX, and although “Absorption GX” can do a base 240 Damage, it is usually best to save your GX attack for Lycanroc GX's “Dangerous Rogue GX”."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Buzzwole"
+  },
+  {
+    "type": "paragraph",
+    "content": "All the attackers in this deck, other than this Buzzwole, give up 2 prizes when KOed. After the first Pokemon GX goes down, you can bring in baby Buzzwole for the dreaded “Sledgehammer” turn. Dealing 120 Damage for 1 Energy BEFORE modifiers is not only hyper-efficient, but completely throws off your opponent's prize map if they can't gust around it. If your opponent does have to KO the baby Buzzwole, they will be at 3 prizes remaining, which gives you another turn to find and play more copies of Beast Ring. And if they do gust around start forcing it as an attacker with “Swing Around”."
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/buzzroctales/buzzwoles.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Grip full of buzzy"
+  },
+  {
+    "type": "subheading",
+    "content": "2-2 Rockruff, Lycanroc GX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Lycanroc GX is a classic. “Bloodthirsty Eyes” allows you to gust, selecting a target to mark for death. This ability synergises with the pressure applied by “Jet Punch”, whilst not taking up your Supporter for turn. Lycanroc is also an incredibly capable attacker, being weak to Grass rather than Psychic allows the deck to not get run through by Malamar decks. Although it cannot be accelerated to by Beast Ring, both attacks on Lycanroc GX can be powered up with hand attachments and the 1 Multi Switch in the deck."
+  },
+  {
+    "type": "paragraph",
+    "content": "“Dangerous Rogue GX” is a wallbreaker attack. In a format of wide Benches, hitting 200 or even 250 Damage for 2 Energy comfortably OHKOs even the biggest Pokemon GX."
+  },
+  {
+    "type": "subheading",
+    "content": "2-2 Alolan Vulpix, Alolan Ninetales GX"
+  },
+  {
+    "type": "paragraph",
+    "content": " “Beacon” takes a backseat in this deck, as you'd rather be using “Jet Punch”. However it still serves its role as a bailout in a pinch, and Alolan Vulpix can be searched by Brooklet Hill to set up Alolan Ninetales GX later. “Mysterious Guidance” is used for combo turns in this deck, primarily to search out copies of Beast Ring when the opponent is at 3 or 4 prizes remaining. One-ofs like Field Blower and Multi Switch can also be good targets to search, or Switch when necessary. As there are 4 Unit Energy FDY in the deck, Alolan Ninetales GX can attack, spreading with “Snowy Wind”."
+  },
+  {
+    "type": "subheading",
+    "content": "2 Tapu Lele GX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Tapu Lele GX is an Ultra Ball searchable out to any Supporter card in the deck with its “Wonder Tag” Ability. In this deck Tapu Lele is mainly used for Guzma to gust, Professor Kukui for extra damage and to search Lisia for a nasty one-time 50 Damage boost. As the lowest HP Pokemon GX in the deck, take care to not bench it where unnecessary. "
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/buzzroctales/diancie.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Be mindful of overbenching Support Pokemon and clogging your Bench!"
+  },
+  {
+    "type": "subheading",
+    "content": "1 Diancie {*}"
+  },
+  {
+    "type": "paragraph",
+    "content": "Diancie {*} is a Brooklet Hill and Lisia searchable +20 Damage. “Princess's Cheer” adds 20 Damage to the attacks of your Fighting-Type Pokemon, which allows you to slam “Jet Punch” for 50 Active. It also modifies the damage done by baby Buzzwole and Lycanroc GX, so watch out for spots when you need extra."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Ditto {*}"
+  },
+  {
+    "type": "paragraph",
+    "content": "This core of BuzzRoc is a big Basic attacker supported by powerful Stage 1 Pokemon GX. Ditto {*} acts as an extra copy of either Alolan Vulpix or Rockruff, as it can be evolved into whichever the situation calls for. Play it down to have a more flexible board where your opponent can't gust a target to prevent you from using either Alolan Ninetales GX or Lycanroc GX next turn."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Marshadow"
+  },
+  {
+    "type": "paragraph",
+    "content": "The perfect partner for a turn 1 “Jet Punch” is a turn 1 “Let Loose”. Shuffling your opponent's hand to a measly 4 cards so early can stop setup decks from getting on board whilst you KO Basic after Basic."
+  },
+  {
+    "type": "heading",
+    "content": "Trainers"
+  },
+  {
+    "type": "paragraph",
+    "content": "As this deck's strength mainly lies in the efficiency of its Pokemon, the Trainer lineup is built to be a lean shuffle draw machine, with as many cards that let you pressure the opponents board as possible. 4 Ultra Ball and 3 Brooklet Hill are the only Pokemon search cards in the deck (except for the Prism-limited Lisia). The deck doesn't need to go insanely wide every game from the get-go, as such playing so little search doesn't kill in practice. 4 Cynthia 2 Lillie keep you seeing new cards as the match progresses."
+  },
+  {
+    "type": "paragraph",
+    "content": "The more aggressive Trainer cards start with the heavy 3 Professor Kukui and 3 Guzma, which fix KOs for Buzzwole GX. Kukui also does a little hand fixing as a bonus. The 1 Lisia can be used as a surprise damage amp, searching Diancie {*} and Beast Energy {*} at once. 3 Beast Ring give you a burst of lethality once the first Buzzwole GX has gone down. The deck does not play 4 as they can be searched by Alolan Ninetales GX. 1 Multi Switch similarly can be used for surprise plays to attack with Lycanroc GX."
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/buzzroctales/lisia.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Lele for Lisia and her targets"
+  },
+  {
+    "type": "paragraph",
+    "content": "2 Choice Band are the final damage modifier in the deck, importantly letting “Knuckle Impact” hit for a 190 Damage. 2 Switch give a mild answer to all the hefty 2 Retreat Cost Pokemon in the deck, and 1 Field Blower similarly gives a one-off answer to a particularly tricky Stadium or Tool card. Finally the deck plays a 1 Rescue Stretcher, which can be used to pull a Stage 1 Pokemon back to hand to immediately get their powerful ETB Ability activations."
+  },
+  {
+    "type": "heading",
+    "content": "Energy"
+  },
+  {
+    "type": "paragraph",
+    "content": "The List plays Seven Fighting Energy to be searched with Beast Ring, 4 Unit FDY, which function as Rainbow Energy for the deck, and finally a Beast Energy {*} which can be searched with Lisia and provides a +30 Damage boost to the Ultra Beast it is attached to. Prioritise hand attaching Unit Energy, to have more outs to accelerate with Beast Ring."
+  }
+]
