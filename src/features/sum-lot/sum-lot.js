@@ -2,7 +2,7 @@ import "../../styles/tcg-guides.css";
 import ListDecks from "../../components/listDecks";
 
 function SumLot() {
-  const decks = ["BuzzRocTales", "Gardevoir GX", "Lost March"];
+  const decks = ["BuzzRocTales", "Gardevoir GX", "Lost March", "Malamar"];
   const format = "sum-lot";
 
   return (
