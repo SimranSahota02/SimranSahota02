@@ -29,7 +29,7 @@
   },
   {
     "type": "link",
-    "href": "my.limitlesstcg.com/builder?i=10333LOT1390133LOT1400332BUS930133LOT1410232CES320132CES340232CES350232GRI210233LOT1320232GRI600132SUM640133SMP1040433LOT1880333UPR1190233BUS1150133FLI1080133UPR1250433SUM1290433SUM1350233GRI1280133SUM1340133GRI1220233GRI1210233GRI1200731SUMY0433SUM1360133UPR136",
+    "href": "https://my.limitlesstcg.com/builder?i=10333LOT1390133LOT1400332BUS930133LOT1410232CES320132CES340232CES350232GRI210233LOT1320232GRI600132SUM640133SMP1040433LOT1880333UPR1190233BUS1150133FLI1080133UPR1250433SUM1290433SUM1350233GRI1280133SUM1340133GRI1220233GRI1210233GRI1200731SUMY0433SUM1360133UPR136",
     "content": "Decklist on LimitlessTCG"
   },
   {
@@ -113,20 +113,20 @@
     "content": "Trainers"
   },
   {
-    "type": "image",
-    "src": "/decks/sum-lot/gardevoirgx/elm.jpg"
-  },
-  {
-    "type": "imageCaption",
-    "content": "Elm for some combination of Ralts, Vulpix and Mudkip"
-  },
-  {
     "type": "subheading",
     "content": "Elm Brooklet Engine and Setup"
   },
   {
     "type": "paragraph",
     "content": "Where this deck can struggle is getting set up fast enough that your opponent cannot simply cheese a win by koing evolving Basic Pokemon and then gusting a benched Tapu Lele GX. To ensure as many Pokemon Turn 1 the deck plays a full 4 copies of Professor Elm's Lecture, and the 2 Brooklet Hill help search Mudkip and Alolan Vulpix specifically. Then to evolve said Pokemon it plays a full 4 copies of both Rare Candy and Ultra Ball. For further Mid-Game consistency 3 Cynthia keep you drawing, whilst the 1 Lillie can be used turn 1 for a burst draw to 8 or later to refresh an emptied hand. The 1 Timer Ball and 1 Energy Loto provide flex options to search off “Mysterious Guidance”, Timer Ball notably does not force you to discard from hand, unlike Ultra Ball."
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/gardevoirgx/elm.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Elm for some combination of Ralts, Vulpix and Mudkip"
   },
   {
     "type": "subheading",
