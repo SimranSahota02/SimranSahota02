@@ -1,0 +1,187 @@
+[
+  {
+    "type": "title",
+    "content": "Passimian Spread"
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/passimianspread/cover.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Monkey see, monkey do"
+  },
+  {
+    "type": "heading",
+    "content": "Concept"
+  },
+  {
+    "type": "paragraph",
+    "content": "The name “Passimian Spread” might be a little misleading, as the Passimians themselves do not spread. Really this deck is a single-prize box deck, with plans to OHKO big Pokemon GX with Passimian or to spread with Tapu Koko and Shrine of Punishment. Manage your Bench to fit Support Pokemon and Passimian as needed, and go ape!"
+  },
+  {
+    "type": "paragraph",
+    "content": "With Magcargo's “Smooth Over” and Oranguru's “Instruct” stacking the deck in your favour, you can continuously stream one-DCE-attach attackers. Decks relying on Zoroark GX get OHKOed by Passimian, and Shrine of Punishment's damage stacking with Tapu Koko allows Passimian to threaten Pokemon not weak to Fighting."
+  },
+  {
+    "type": "heading",
+    "content": "The Deck"
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/passimianspread/decklist.jpg"
+  },
+  {
+    "type": "link",
+    "href": "https://limitlesstcg.com/decks/list/1861",
+    "content": "Decklist on LimitlessTCG"
+  },
+  {
+    "type": "paragraph",
+    "content": "List credit to Patricia Walsh at Argentina SPE 2018, +1 Oranguru -1 Guzma, and different Slugma print count."
+  },
+  {
+    "type": "heading",
+    "content": "Attacking Pokemon"
+  },
+  {
+    "type": "subheading",
+    "content": "4 Tapu Koko"
+  },
+  {
+    "type": "paragraph",
+    "content": "Double Colorless compatible free Retreat menace Tapu Koko is a premier spread attacker in the format, dealing 20 Damage to your opponent's entire board each use of “Flying Flip”. With all the wide boards going around, this attack can easily tot up 100+ Damage per swing, fixing numbers and pressuring your opponent to respond."
+  },
+  {
+    "type": "paragraph",
+    "content": "Having a Tapu Koko on the Bench ready to promote when your Active Pokemon is KOed removes the need for you to find a switching card if you'd like to attack with a Pokemon you don't already have in play - though you'll want to be aware of bench management when playing this deck, in case you want all 4 Passimian in play at once later in the game."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Latios"
+  },
+  {
+    "type": "paragraph",
+    "content": "Latios, for a Double Colorless Energy, can use “Break Through” to bully Psychic-Weak Inkay and Buzzwole GX alike. With a Choice Band and Professor Kukui Latios will do 160 Damage to a Pokemon GX weak to Psychic in the active, whilst throwing 30 Damage to the bench for good measure. Forcing Buzzwole decks to deal with Latios is a key way to take control in the matchup, and if used early enough against a Malamar deck you can setup 30 Damage on the following Malamar to be hunted one-by-one."
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/passimianspread/latios.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "BREAK-DOWN BREAK-DOWN"
+  },
+  {
+    "type": "subheading",
+    "content": "1 Tapu Lele"
+  },
+  {
+    "type": "paragraph",
+    "content": "When you play to win through spread, Tapu Lele's “Magical Swap” is the big payoff that closes out a match. After stacking plenty of damage in play, you can clean up the last 3-4 prizes in one fell swoop. Powering up Tapu Lele in one turn requires that you are behind in prizes to use Counter Energy, so it make take a few games to get comfortable with using it. If you have Shrine of Punishment out, you can put 10 less Damage than you need on each Pokemon GX you will KO, and let the Shrine do that last bit of work for you."
+  },
+  {
+    "type": "subheading",
+    "content": "2-2 Passimian"
+  },
+  {
+    "type": "paragraph",
+    "content": "Passimian SM's “Team Play” does 100 Damage with the other 3 Passimian on the Bench. That doesn't even OHKO a Zoroark GX, but Passimian UPR's “Power Huddle” adds +30 Damage when your Passimian attack Evolution Pokemon. This means the actual base damage totals to 160 when attacking Evolution Pokemon, which is much more reasonable for att acking into Pokemon GX. With a Choice Band, even when not OHKOing on attack, you can clean up damaged Pokemon later with Tapu Koko or Lele. Playing a 2-2 split gives you enough boosts with “Power Huddle” without requiring you to Rescue Stretcher your attacking Passimian every time it gets KOed."
+  },
+  {
+    "type": "heading",
+    "content": "Support Pokemon"
+  },
+  {
+    "type": "subheading",
+    "content": "2-2 Slugma, Magcargo"
+  },
+  {
+    "type": "paragraph",
+    "content": "“Smooth Over” is the decks consistency engine, so it is critical to get a Slugma down on the Bench turn 1. The deck has both Supporter cards and Oranguru to draw the card you put ontop of your deck, so once set up you should be able to make a play every turn, as long as your Magcargo doesn't get targeted down. “Smooth Over” is primarily used to find pieces like Energy, Choice Band and Shrine, which cannot be otherwise searched out of the deck. It can also be used to stack a relevant Supporter for next turn, in situations where you want to play around the potential of your Magcargo getting gusted."
+  },
+  {
+    "type": "subheading",
+    "content": "2-1 Oranguru"
+  },
+  {
+    "type": "paragraph",
+    "content": "2 “Instruct” Oranguru SM refresh your hand if you Ultra Ball search it, which can be used as a lite combo to immediately draw a “Smooth Over”'d card. Otherwise Oranguru's main role is just to mid-turn refill the hand. The other Oranguru UPR is used to resource war with control decks and decks heavy on Enhanced Hammer. “Resource Management” recycles Energy, disruptive Supporters and switching outs at a ridiculous rate, allowing you to have enough to close out against slower matchups."
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/passimianspread/guru.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "The only way to beat them is to join them..."
+  },
+  {
+    "type": "heading",
+    "content": "Trainers"
+  },
+  {
+    "type": "subheading",
+    "content": "Search & Draw"
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Nest Ball and 4 Ultra Ball make up the Pokemon search engine of the deck. This deck doesn't have many cards it is happy discarding, so note the resources you are discarding when playing Ultra Ball."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Judge and 1 Tate & Liza give you outs to hand reset, each with different additional use cases. Both the switch and hand disruption of the two respectively come up frequently. The 1 Cynthia is the final out to shuffle refresh."
+  },
+  {
+    "type": "subheading",
+    "content": "Cards that interact with “Smooth Over”"
+  },
+  {
+    "type": "paragraph",
+    "content": "As the main consistency engine of the deck, many of the cards in this list are built to work with “Smooth Over”."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Lillie is the main draw Supporter in the deck, drawing directly off the top allows you to ensure you find your stacked card, alongside other pieces. 3 Professor Kukui trades raw draw power for a +20 Damage modifier, which is generally useful for OHKOing Pokemon GX with Passimian."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Acro Bike give you more outs to access to the top of the deck, whilst filtering out extra copies of Pokemon you won't need this game."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Energy Loto allows you situational Energy dig, which can also find an Energy stacked with “Smooth Over”."
+  },
+  {
+    "type": "subheading",
+    "content": "Damage Modifiers, Gust and Recovery"
+  },
+  {
+    "type": "paragraph",
+    "content": "Alongside the 3 Kukui, 2 Choice Band and 3 Shrine of Punishment allow you to get extra damage in against Pokemon GX, even attaching a Choice Band to Tapu Koko for the spread pressure can be worth it."
+  },
+  {
+    "type": "paragraph",
+    "content": "3 Guzma act as both switching outs and gusting outs, allowing you to aggressively target Pokemon down with Passimian, or move a trapped Magcargo. 1 Switch also helps in this regard."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Field Blower is looped by Oranguru to remove HP-boosting Tools and annoying Stadiums against control, and also has a fringe use-case at removing Weakness Policy from Zoroark GX that might play it."
+  },
+  {
+    "type": "paragraph",
+    "content": "3 Rescue Stretcher give you a large amount of outs to recover KOed 1-of attackers, Passimian & Magcargo pieces throughout the match."
+  },
+  {
+    "type": "heading",
+    "content": "Energy"
+  },
+  {
+    "type": "paragraph",
+    "content": "The deck plays a full 4 Double Colorless Energy to have high outs to draw one for an attack each turn. As a spread deck however, sometimes the deck needs to attack more than 4 times to win. Therefore the deck plays 3 Counter Energy, which can be weaved in between Double Colorless Energy to make attach attacking easier. The Counter Energy are the only way to power up Tapu Lele's “Magical Swap” in one turn. "
+  },
+  {
+    "type": "paragraph",
+    "content": "The 1 Psychic Energy allows Oranguru to use “Resource Management” with a Basic Energy, circumventing Enhanced Hammer. It also allows Latios to use “Lagoon Flight” and Tapu Lele to use “Psywave” or “Magical Swap” when even on prizes."
+  }
+]

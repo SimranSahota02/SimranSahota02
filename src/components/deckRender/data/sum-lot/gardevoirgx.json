@@ -118,7 +118,7 @@
   },
   {
     "type": "paragraph",
-    "content": "Where this deck can struggle is getting set up fast enough that your opponent cannot simply cheese a win by koing evolving Basic Pokemon and then gusting a benched Tapu Lele GX. To ensure as many Pokemon Turn 1 the deck plays a full 4 copies of Professor Elm's Lecture, and the 2 Brooklet Hill help search Mudkip and Alolan Vulpix specifically. Then to evolve said Pokemon it plays a full 4 copies of both Rare Candy and Ultra Ball. For further Mid-Game consistency 3 Cynthia keep you drawing, whilst the 1 Lillie can be used turn 1 for a burst draw to 8 or later to refresh an emptied hand. The 1 Timer Ball and 1 Energy Loto provide flex options to search off “Mysterious Guidance”, Timer Ball notably does not force you to discard from hand, unlike Ultra Ball."
+    "content": "Where this deck can struggle is getting set up fast enough that your opponent cannot simply cheese a win by koing evolving Basic Pokemon and then gusting a benched Tapu Lele GX. To ensure as many Pokemon Turn 1 the deck plays a full 4 copies of Professor Elm's Lecture, and the 2 Brooklet Hill help search Mudkip and Alolan Vulpix specifically. Then to evolve said Pokemon it plays a full 4 copies of both Rare Candy and Ultra Ball. "
   },
   {
     "type": "image",
@@ -129,12 +129,32 @@
     "content": "Elm for some combination of Ralts, Vulpix and Mudkip"
   },
   {
+    "type": "paragraph",
+    "content": "For further Mid-Game consistency 3 Cynthia keep you drawing, whilst the 1 Lillie can be used turn 1 for a burst draw to 8 or later to refresh an emptied hand. The 1 Timer Ball and 1 Energy Loto provide flex options to search off “Mysterious Guidance”, Timer Ball notably does not force you to discard from hand, unlike Ultra Ball."
+  },
+  {
+    "type": "paragraph",
+    "content": "The 1 Timer Ball and 1 Energy Loto provide flex options to search off “Mysterious Guidance”, Timer Ball notably does not force you to discard from hand, unlike Ultra Ball."
+  },
+  {
     "type": "subheading",
     "content": "Other Trainers"
   },
   {
     "type": "paragraph",
-    "content": "This deck plays a low 2 count of Guzma, owing to Gardevoir GX's uncapped damage. The 2 Choice Band help reach those high numbers either for less Energy or on the single-prize attackers in the deck. The 1 Judge keeps Zoroark and control decks from building and sitting on hands against you. Finally the 2 Max Potion allow you to heal a damaged Gardevoir GX, then accelerating Energy to it again to simply nullify the opponent's last attack."
+    "content": "This deck plays a low 2 count of Guzma, owing to Gardevoir GX's uncapped damage."
+  },
+  {
+    "type": "paragraph",
+    "content": "2 Choice Band help reach those high numbers either for less Energy or on the single-prize attackers in the deck."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Judge keeps Zoroark and control decks from building and sitting on hands against you. "
+  },
+  {
+    "type": "paragraph",
+    "content": "2 Max Potion allow you to heal a damaged attacker, then accelerating Energy to it again to simply nullify the opponent's last attack."
   },
   {
     "type": "heading",

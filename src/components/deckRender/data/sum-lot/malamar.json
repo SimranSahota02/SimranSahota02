@@ -142,7 +142,15 @@
   },
   {
     "type": "paragraph",
-    "content": "Although this deck wants to be able to go wide with Inkay every game, it also needs to get a reasonable amount of Psychic Energy in the discard to start attacking. Therefore instead of an Elm's engine, the deck plays 4 Lillie and 4 Cynthia, a heavy count of draw Supporters. Furthermore the deck plays 4 Acro Bike, which thin through the deck, finding useful pieces and discarding extra resources or Psychic Energy. 4 Ultra Ball and 4 Mysterious Treasure search Inkay, Malamar and most the Pokemon in the deck, alongside a bonus of being able to discard your Psychic Energy from hand. A single copy of Nest Ball rounds out the Pokemon search, as an extra out to a Basic Pokemon when drawn."
+    "content": "Although this deck wants to be able to go wide with Inkay every game, it also needs to get a reasonable amount of Psychic Energy in the discard to start attacking. Therefore instead of an Elm's engine, the deck plays 4 Lillie and 4 Cynthia, a heavy count of draw Supporters."
+  },
+  {
+    "type": "paragraph",
+    "content": "Furthermore the deck plays 4 Acro Bike, which thin through the deck, finding useful pieces and discarding extra resources or Psychic Energy."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Ultra Ball and 4 Mysterious Treasure search Inkay, Malamar and most the Pokemon in the deck, alongside a bonus of being able to discard your Psychic Energy from hand. A single copy of Nest Ball rounds out the Pokemon search, as an extra out to a Basic Pokemon when drawn."
   },
   {
     "type": "subheading",
@@ -150,7 +158,27 @@
   },
   {
     "type": "paragraph",
-    "content": "Once Malamar are in play and Energy is in the Discard, priorities shift to having attackers able to move into the Active and take KOs. 4 Guzma and 3 Switch help get this done, just be sure to “Psychic Recharge” to an attacker before moving it to the Active spot. The heavy Guzma count also gives the deck access to a lot of gust, which can be searched when needed with Tapu Lele GX. The 2 Choice Band boost the damage output of your Pokemon's attacks on Pokemon GX by 30, which can be critical for hitting some larger HP Pokemon GX for an OHKO. Notably a Giratina “Distortion Door” + Choice Banded “Prismatic Burst” from Necrozma GX deals a perfect 210 Damage to Zoroark GX, and Choice Band also puts the damage of Dawn Wings Necrozma GX's “Moon's Eclipse GX” to 210. Finally the deck plays a copy of Rescue Stretcher, to recover Malamar or attackers as the situation calls for it."
+    "content": "Once Malamar are in play and Energy is in the Discard, priorities shift to having attackers able to move into the Active and take KOs. "
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/malamar/necro.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Managing hand attachments well can allow you to Guzma big targets for big swing KOs"
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Guzma and 3 Switch help get this done, just be sure to “Psychic Recharge” to an attacker before moving it to the Active spot. The heavy Guzma count also gives the deck access to a lot of gust, which can be searched when needed with Tapu Lele GX. "
+  },
+  {
+    "type": "paragraph",
+    "content": "The 2 Choice Band boost the damage output of your Pokemon's attacks on Pokemon GX by 30, which can be critical for hitting some larger HP Pokemon GX for an OHKO. Notably a Giratina “Distortion Door” + Choice Banded “Prismatic Burst” from Necrozma GX deals a perfect 210 Damage to Zoroark GX, and Choice Band also puts the damage of Dawn Wings Necrozma GX's “Moon's Eclipse GX” to 210. "
+  },
+  {
+    "type": "paragraph",
+    "content": "Finally the deck plays a copy of Rescue Stretcher, to recover Malamar or attackers as the situation calls for it."
   },
   {
     "type": "heading",

@@ -22,8 +22,6 @@ function BstPaf() {
           <p>NO attack.</p>
           <p>NO Supporter card.</p>
           <p className="belowpad">MAY play Trainer, Tool and Stadium cards.</p>
-          <h2>Special Conditions</h2>
-          <p>All conditions same as modern.</p>
         </div>
       </div>
     </div>

@@ -2,7 +2,13 @@ import "../../styles/tcg-guides.css";
 import ListDecks from "../../components/listDecks";
 
 function SumLot() {
-  const decks = ["BuzzRocTales", "Gardevoir GX", "Lost March", "Malamar"];
+  const decks = [
+    "BuzzRocTales",
+    "Gardevoir GX",
+    "Lost March",
+    "Malamar",
+    "Passimian Spread",
+  ];
   const format = "sum-lot";
 
   return (
@@ -23,8 +29,6 @@ function SumLot() {
           <p className="belowpad">
             MAY play Trainer, Tool, Stadium and Supporter cards.
           </p>
-          <h2>Special Conditions</h2>
-          <p className="belowpad">All conditions same as modern.</p>
           <h2>Format Specifics</h2>
           <p>
             Pokemon GX - evolve as usual, give up 2 prizes when KOed and have a
