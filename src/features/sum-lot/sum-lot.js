@@ -8,6 +8,8 @@ function SumLot() {
     "Lost March",
     "Malamar",
     "Passimian Spread",
+    "ZoroDeciTales",
+    "ZoroGyarados",
   ];
   const format = "sum-lot";
 

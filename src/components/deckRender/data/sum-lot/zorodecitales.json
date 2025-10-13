@@ -1,0 +1,219 @@
+[
+  {
+    "type": "title",
+    "content": "ZoroDeciTales"
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/zorodecitales/cover.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "I dont care I'm Yveltal I'm going to Doom Count GX and kill you"
+  },
+  {
+    "type": "heading",
+    "content": "Concept"
+  },
+  {
+    "type": "paragraph",
+    "content": "Zoroark GX is widely known to be the boogeyman of early Sun & Moon formats, not for its overwhelming power but for its brutal efficiency, creating wins on card and board advantage. This version of the deck was the most played during the SUM-LOT format, taking advantage of the newly released Alolan Ninetales GX to further push the aggressive power of Zoroark GX by getting Decidueye GX into play, whilst still retaining the ability to search out defensive utility cards like Counter Catcher and Enhanced Hammer when necessary."
+  },
+  {
+    "type": "paragraph",
+    "content": "Mapping the prizes you'll need to win a game can get confusing with “Feather Arrow”, “Rioutous Beating” and “Snowy Wind” maths - and it doesn't get much easier due to all the 1-of cards in the deck! Tough but thoroughly rewarding to play, ZoroDeciTales is able to handle just about any matchup when played correctly."
+  },
+  {
+    "type": "heading",
+    "content": "The Deck"
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/zorodecitales/decklist.jpg"
+  },
+  {
+    "type": "link",
+    "href": "https://my.limitlesstcg.com/builder?i=10332SLG520332SLG530233LOT1320232GRI210331SUM90132SUM100332SUM120133LOT1540132CES240132FLI790132GRI600133UPR1140433LOT1880333UPR1190333BUS1150133BUS1120133UPR1250133FLI1080432SLG680333SUM1290133SUM1340233GRI1210133LOT1700132CIN910133GRI1300133GRI1250133GRI1280133CES1470133GRI1240432SLG690333SUM1370131SUMY",
+    "content": "Decklist on LimitlessTCG"
+  },
+  {
+    "type": "heading",
+    "content": "Core Pokemon"
+  },
+  {
+    "type": "subheading",
+    "content": "3-3 Zorua, Zoroark GX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Getting 2-3 Zorua down turn 1 gives you maximum access to the main Pokemon & engine of the deck turn 2, and you can comfortably play the game with just 2 Zoroark GX in play."
+  },
+  {
+    "type": "paragraph",
+    "content": "Zoroark GX's 210HP is surprisingly tanky, allowing you to engange most decks in 2HKO wars with “Rioutous Beating”. Its Ability “Trade” allows you to aggressively dig through the Deck, setting up healing plays and damage pings to win said war. “Trade” requires you to make many decisions throughout the game, and there are no hard rules for which cards to discard when. Personally, I try to prioritise discarding extra copies of Professor Elm's Lecture and extra Pokemon where possible, anything past that is entirely dependent on the board."
+  },
+  {
+    "type": "subheading",
+    "content": "2-2 Alolan Vulpix, Alolan Ninetales GX"
+  },
+  {
+    "type": "paragraph",
+    "content": "When going second, you can move to a gameplan of using “Beacon” followed by “Mysterious Guidance” to flood your board with Evolution Pokemon on turn 2. Alolan Vulpix can tutor its evolution and a Decidueye or Zoroark GX to hand, without requiring an Energy. This can then be followed up with a “Mysterious Guidance” to get a Rare Candy, maybe the Timer Ball, or even saved to search out one-of Items later."
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/zorodecitales/sublime.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Using Sublimation GX with a Rainbow Energy and a Counter Gain"
+  },
+  {
+    "type": "paragraph",
+    "content": "Alolan Ninetales GX is a secondary attacker in this deck. Softening up targets with “Snowy Wind” for “Feather Arrow” KOs later, and critically in the Blacephalon GX and Buzzwole GX matchups its “Sublimation GX” OHKOs any Ultra-Beast. In said matchups get 2 Alolan Vulpix down ASAP and use “Mysterious Guidance” once your opponent has taken a prize card to search the Counter Gain from the deck and use a one-attach “Sublimation GX”."
+  },
+  {
+    "type": "subheading",
+    "content": "3-1-3 Rowlet, Dartrix, Decidueye GX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Decidueye GX is primarily in the deck to use “Feather Arrow” to fix numbers for KOs with Zoroark and Alolan Ninetales GX's attacks, and set up extra prize takes over the course of a match. Most games you'll get one early and a second in the lategame, so using those early pings properly is important. If you ever get all 3 Decidueye GX on board at once the game may as well be over, sending enough damage to KO an evolving Basic every turn makes it hard to lose."
+  },
+  {
+    "type": "paragraph",
+    "content": "The deck plays exactly enough Rare Candy to evolve all 3 Decidueye without Dartrix, but if you naturally draw Dartrix off “Trade” you will be under much less pressure to use “Mysterious Guidance” to set up Decidueyes. Expect to bench 2 Rowlet most games, as your Pokemon get KOed you can adjust to bench the third Rowlet if necessary. "
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/zorodecitales/dart.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Setting up Dartrix makes getting multiple Decidueye GX into play much easier"
+  },
+  {
+    "type": "paragraph",
+    "content": "Decidueye GX's has two strong attacks, notably “Hollow Hunt GX” gives you an attack to use when your opponent can't KO Decidueye's huge 240HP and you need more “Feather Arrow” pings to take a relevant KO. “Hollow Hunt GX” allows you to recycle Max Potion and other one-ofs straight back to hand, allowing you to rebuff your opponent's next turn. Notably “Razor Leaf” does Weakness to Lycanroc GX, which OHKOs Zoroark GX consistently, and with one ping from “Feather Arrow” or a Choice Band it becomes and OHKO."
+  },
+  {
+    "type": "paragraph",
+    "content": "Notable ping targets that frequently come up include Tapu Lele GX, which takes 1 ping + Choice Band on Zoroark GX to KO, and Magcargo, which takes 1 ping + Alolan Ninetales GX to KO (and can therefore be gusted active and attacked to soft trap it for a turn)."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Tapu Lele GX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Tapu Lele GX is an Ultra Ball searchable out to any Supporter card in the deck with its “Wonder Tag” Ability. Turn 1 this can grab an Elm's Lecture, or it can fetch the game winning Guzma on the last turn. You can also attack with “Energy Drive” in a pinch, or use “Tapu Cure GX” against spread strategies. As the lowest HP Pokemon GX in the deck, take care to not bench it where unnecessary."
+  },
+  {
+    "type": "heading",
+    "content": "Tech Pokemon"
+  },
+  {
+    "type": "subheading",
+    "content": "1 Ditto {*}"
+  },
+  {
+    "type": "paragraph",
+    "content": "Ditto {*} acts as an extra copy of your evolving Basic Pokemon, and it can be evolved into whichever the situation calls for. Play it down to have a more flexible board which can react to an opponent's play. Ditto {*} is the only way in this list to get Magcargo into play."
+  },
+  {
+    "type": "subheading",
+    "content": "Magcargo"
+  },
+  {
+    "type": "paragraph",
+    "content": "“Smooth Over” bolsters the decks consistency engine, allowing you to guarantee a piece of your play for turn off your “Trade”s. “Smooth Over” is primarily used to find pieces like Energy, Choice Band and one-ofs, which cannot be freely searched out of the deck."
+  },
+  {
+    "type": "paragraph",
+    "content": "Magcargo can be easily targeted down with only 90HP, so avoid playing it down in situations where it might fix your opponent's prize trade - ie. if it would allow them to take a 6 prize game instead of a 7 prize game."
+  },
+  {
+    "type": "subheading",
+    "content": "Yveltal GX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Yveltal GX's “Doom Count GX” removes a Pokemon from the board once it has been hit by 2 “Feather Arrow”s. Giving the deck a wallbreaking option helps carry against Gardevoir GX and also helps against other Zoroark GX decks. Try to take 4 prizes, then instantly end the game with “Doom Count GX”."
+  },
+  {
+    "type": "subheading",
+    "content": "Oranguru"
+  },
+  {
+    "type": "paragraph",
+    "content": "“Resource Management” recycles Energy, disruptive Supporters and switching outs at a ridiculous rate, allowing you to have enough to close out against control matchups as you build up “Feather Arrow” pings to win."
+  },
+  {
+    "type": "heading",
+    "content": "Trainers"
+  },
+  {
+    "type": "subheading",
+    "content": "Elm Engine and Setup"
+  },
+  {
+    "type": "paragraph",
+    "content": "The not only needs Pokemon on Bench for “Rioutous Beating”, but also it needs a wide board of Zorua, Alolan Vulpix and Rowlet to evolve up. To ensure as many Pokemon Turn 1 the deck plays a full 4 copies of Professor Elm's Lecture, which can be searched by Tapu Lele GX if not in the opening hand. 3 Cynthia give you enough cards to find Evolutions and combo pieces, whilst comfortably discarding some to draw. 1 Lillie can be used with Magcargo or as a hand refresh when relevant."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Ultra Ball and 1 Timer Ball are the only Item Pokemon search cards in the deck, and the deck plays 3 Rare Candy for evolving up into Decidueye GX."
+  },
+  {
+    "type": "subheading",
+    "content": "Gust and 1-of Techs"
+  },
+  {
+    "type": "paragraph",
+    "content": "Searchable with Alolan Ninetales GX, 1 Counter Catcher compliments the 3 Guzma in the deck to give you a total 4 gusting outs."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Acerola is a strong card that allows you to reset a damaged Pokemon, usually Zoroark GX, back to hand. Rebench the retrieved Zorua and attach to your next Zoroark GX to get ahead."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Judge allows you to hand disrupt when necessary, try to use it on turns where your opponent really needs to hit a combo to make a play next turn."
+  },
+  {
+    "type": "paragraph",
+    "content": "2 Choice Band fix damage numbers, as most of your attacks 2HKO +30 Damage fixes 170 & 190HP Pokemon to OHKOs with varying numbers of “Feather Arrow”."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Switch is loopable and searchable mobility that doesn't use up your Supporter for turn."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Rescue Stretcher allows Oranguru to go infinite against decks without Lugia GX or Girafarig, though most often its used to recover Pokemon discarded by “Trade”."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Enhanced Hammer is loopable for the mirror with Oranguru, but often is best used to just remove an Energy and gain tempo."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Counter Gain allows Alolan Ninetales GX to attack for 1 Energy when you are behind on prizes, important for Ultra Beast matchups."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Max Potion allows you to remove damage from a Pokemon, without taking up your Supporter for turn. The downside of losing your Energy is easily shrugged off by attaching a DCE from hand and announcing “Rioutous Beating”."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Field Blower allows you to remove Choice Helmet and other annoying Tool & Stadium cards from play."
+  },
+  {
+    "type": "heading",
+    "content": "Energy"
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Double Colorless Energy aren't searchable in the deck, so having a max count makes drawing them off Trade more consistent. 3 Rainbow Energy cover the attacks of Alolan Ninetales GX, Decidueye GX and Yveltal GX. Finally the Fairy Energy ups the outs to an Alolan Ninetales GX attack by 1, and gives you an option to attack with Oranguru without risking Enhanced Hammer."
+  }
+]
