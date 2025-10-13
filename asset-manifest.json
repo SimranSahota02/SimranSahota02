@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/SimranSahota02/static/css/main.7c97c230.css",
-    "main.js": "/SimranSahota02/static/js/main.6e487e8c.js",
-    "static/js/16.378a277e.chunk.js": "/SimranSahota02/static/js/16.378a277e.chunk.js",
-    "static/js/583.ed803672.chunk.js": "/SimranSahota02/static/js/583.ed803672.chunk.js",
-    "static/js/580.f22e3a1d.chunk.js": "/SimranSahota02/static/js/580.f22e3a1d.chunk.js",
-    "static/js/854.48251748.chunk.js": "/SimranSahota02/static/js/854.48251748.chunk.js",
-    "static/js/923.4626465d.chunk.js": "/SimranSahota02/static/js/923.4626465d.chunk.js",
-    "static/js/985.03478778.chunk.js": "/SimranSahota02/static/js/985.03478778.chunk.js",
+    "main.css": "/SimranSahota02/static/css/main.578142b2.css",
+    "main.js": "/SimranSahota02/static/js/main.90bb8c26.js",
+    "static/js/16.89b6b519.chunk.js": "/SimranSahota02/static/js/16.89b6b519.chunk.js",
+    "static/js/583.74259549.chunk.js": "/SimranSahota02/static/js/583.74259549.chunk.js",
+    "static/js/580.f5837216.chunk.js": "/SimranSahota02/static/js/580.f5837216.chunk.js",
+    "static/js/854.48c2a03b.chunk.js": "/SimranSahota02/static/js/854.48c2a03b.chunk.js",
+    "static/js/171.d9432f3e.chunk.js": "/SimranSahota02/static/js/171.d9432f3e.chunk.js",
+    "static/js/835.acd63791.chunk.js": "/SimranSahota02/static/js/835.acd63791.chunk.js",
+    "static/js/12.c4aabea3.chunk.js": "/SimranSahota02/static/js/12.c4aabea3.chunk.js",
+    "static/js/70.eba7f6bd.chunk.js": "/SimranSahota02/static/js/70.eba7f6bd.chunk.js",
+    "static/js/823.e195a195.chunk.js": "/SimranSahota02/static/js/823.e195a195.chunk.js",
+    "static/js/141.04347aba.chunk.js": "/SimranSahota02/static/js/141.04347aba.chunk.js",
+    "static/js/843.b17c0688.chunk.js": "/SimranSahota02/static/js/843.b17c0688.chunk.js",
+    "static/js/923.6908d23d.chunk.js": "/SimranSahota02/static/js/923.6908d23d.chunk.js",
+    "static/js/985.b36b6ac3.chunk.js": "/SimranSahota02/static/js/985.b36b6ac3.chunk.js",
     "static/js/151.a5e2097c.chunk.js": "/SimranSahota02/static/js/151.a5e2097c.chunk.js",
     "static/media/icon.jpg": "/SimranSahota02/static/media/icon.982b88783bf336787b90.jpg",
     "static/media/home.jpg": "/SimranSahota02/static/media/home.d0969d904b7abd8897b5.jpg",
@@ -19,12 +26,12 @@
     "static/media/sum-lot.jpg": "/SimranSahota02/static/media/sum-lot.14ed0ad0610db1e08691.jpg",
     "static/media/gohome.png": "/SimranSahota02/static/media/gohome.efaac755e2b5544fea09.png",
     "index.html": "/SimranSahota02/index.html",
-    "main.7c97c230.css.map": "/SimranSahota02/static/css/main.7c97c230.css.map",
-    "main.6e487e8c.js.map": "/SimranSahota02/static/js/main.6e487e8c.js.map",
+    "main.578142b2.css.map": "/SimranSahota02/static/css/main.578142b2.css.map",
+    "main.90bb8c26.js.map": "/SimranSahota02/static/js/main.90bb8c26.js.map",
     "151.a5e2097c.chunk.js.map": "/SimranSahota02/static/js/151.a5e2097c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c97c230.css",
-    "static/js/main.6e487e8c.js"
+    "static/css/main.578142b2.css",
+    "static/js/main.90bb8c26.js"
   ]
 }
