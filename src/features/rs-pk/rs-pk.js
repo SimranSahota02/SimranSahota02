@@ -54,11 +54,11 @@ function RsPk() {
           <h2>Special Conditions</h2>
           <p>
             Burn: Pokemon stays burned between turns. Flip a coin between turns,
-            if tails the burned Pokemon takes 20 damage.
+            if tails the burned Pokemon takes 20 Damage.
           </p>
           <p className="belowpad">All other conditions same as modern.</p>
           <h2>Format Specifics</h2>
-          <p>Pokemon ex - evolve as usual, give up 2 Prizes when KOed.</p>
+          <p>Pokemon ex - evolve as usual, give up 2 prizes when KOed.</p>
           <p>
             Pokemon Delta - evolve as usual, denoted by δ on the card. Can be
             dual type or Pokemon ex/Star.

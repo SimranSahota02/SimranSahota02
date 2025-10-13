@@ -22,12 +22,6 @@ function BstPaf() {
           <p>NO attack.</p>
           <p>NO Supporter card.</p>
           <p className="belowpad">MAY play Trainer, Tool and Stadium cards.</p>
-          <h2>Special Conditions</h2>
-          <p>
-            Burn: Pokemon stays burned between turns. Flip a coin between turns,
-            if tails the burned Pokemon takes 20 damage.
-          </p>
-          <p>All other conditions same as modern.</p>
         </div>
       </div>
     </div>

@@ -1,0 +1,191 @@
+[
+  {
+    "type": "title",
+    "content": "Malamar"
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/malamar/cover.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "My friend Malamar!"
+  },
+  {
+    "type": "heading",
+    "content": "Concept"
+  },
+  {
+    "type": "paragraph",
+    "content": "Functioning as a box-style deck held together by Malamar's “Psychic Recharge”, this deck got quite a bit weaker following the rotation of Float Stone, but the suite of different Psychic attackers makes it a versatile threat when it gets going."
+  },
+  {
+    "type": "heading",
+    "content": "The Deck"
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/malamar/decklist.jpg"
+  },
+  {
+    "type": "link",
+    "href": "https://limitlesstcg.com/decks/list/1926",
+    "content": "Decklist on LimitlessTCG"
+  },
+  {
+    "type": "paragraph",
+    "content": "List credit to Rahul Reddy at Mexico SPE 2018."
+  },
+  {
+    "type": "heading",
+    "content": "Malamar & Support Pokemon"
+  },
+  {
+    "type": "subheading",
+    "content": "4-4 Inkay, Malamar"
+  },
+  {
+    "type": "paragraph",
+    "content": "As the main engine for the deck, you want to have as many Inkay down as possible ASAP. A smart opponent will target down your Malamar, so being able to get out 3 or more will keep you on board. Malamar's “Psychic Recharge” is the main way your attackers get powered up, but don't miss out on smart hand attachments. If you end up with extra “Psychic Recharge”s or don't have a good target, you can put energy on a Pokemon you might use to Pivot on the next turn."
+  },
+  {
+    "type": "subheading",
+    "content": "2 Marshadow"
+  },
+  {
+    "type": "paragraph",
+    "content": "No one likes a turn 1 “Let Loose”. This deck doesn't always have the Bench space or consistency to just drop Marshadow turn 1 and not care, but having a full playset of Mysterious Treasure and Ultra Ball gives you 8 outs to this menace at any point in the game."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Tapu Lele GX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Tapu Lele GX is a Mysterious Treasure and Ultra Ball searchable out to any Supporter card in the deck with its “Wonder Tag” Ability. Turn 1 this can grab a Lillie, or it can fetch the game winning Guzma on the last turn. You can also attack with “Energy Drive” or “Tapu Cure GX” in a pinch. As a low HP Pokemon GX, take care to not bench it where unnecessary."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Chimecho"
+  },
+  {
+    "type": "paragraph",
+    "content": "Chimecho walls out opposing Malamar decks, opposing Naganadel decks, prevents Alolan Ninetales GX and Lycanroc GX but even better it prevents the dreaded Zoroark GX from coming to the board. Zoroark resists most of your attackers, and can be difficult to OHKO. Use Chimecho to buy time to stabilise your board, and begin the prize exchange on your terms."
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/malamar/chime.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "The bell tolls..."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Lunala {*}"
+  },
+  {
+    "type": "paragraph",
+    "content": "Lunala {*} serves an interesting role. Its attack “Psystorm” requires a massive 4 Energy for a strong payoff, but most of the time it is just too expensive to use. Rather Lunala {*} is used on your first turn / when you have a lull turn as “Full Moon Star” takes the pressure off your Malamar on the next turn to put an attack together."
+  },
+  {
+    "type": "heading",
+    "content": "Attacking Pokemon"
+  },
+  {
+    "type": "subheading",
+    "content": "1 Giratina"
+  },
+  {
+    "type": "paragraph",
+    "content": "Giratina serves as a single-prize attacker that hits for a 2HKO on most of the format's Pokemon GX. A solid generic option, Giratina can also recycle itself from the Discard pile with “Distortion Door”. Note where this can also be used to fix damage numbers for KOs later in a match."
+  },
+  {
+    "type": "subheading",
+    "content": "2 Necrozma GX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Necrozma GX's attack “Prismatic Burst” hits for a minumum of 190 Damage, which makes it perfect for OHKOing Pokemon GX. It is expensive to use though, so take care that you don't leave yourself vulnerable to your Malamar getting gust KOed and being forced to pass turn. “Light's End” unfortunately doesn't come up in this format, but “Black Ray GX” can be used to finish a game by sweeping multiple targets damaged by Giratina off the board at once."
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/malamar/attackers.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "iiiinnnncoooommmmiiiinnnngggg!!!!"
+  },
+  {
+    "type": "subheading",
+    "content": "1 Marshadow GX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Marshadow's “Shadow Hunt” allows it to copy the attacks of Basic Pokemon in your Discard pile, as long as Marshadow GX has the Energy required to use the attack. Primarily this is used to OHKO Fighting-Weak Zoroark GX by copying Dawn Wings Necrozma GX's “Moon's Eclipse GX” to become invulnerable whilst KOing a Zoroark GX, threatening to OHKO another next turn."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Dawn Wings Necrozma GX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Dawn Wings' Ability “Invasion” takes pressure off your resources, allowing you to miss a switch card or pivot for turn. It's attacks however are a little less consistent, “Moon's Eclipse GX” is a strong option when paired with hand disruption to make your opponent miss a KO, but you'll need to swap to a different attacker unless “Dark Flash” can pick up another KO."
+  },
+  {
+    "type": "heading",
+    "content": "Trainers"
+  },
+  {
+    "type": "subheading",
+    "content": "Search & Draw"
+  },
+  {
+    "type": "paragraph",
+    "content": "Although this deck wants to be able to go wide with Inkay every game, it also needs to get a reasonable amount of Psychic Energy in the discard to start attacking. Therefore instead of an Elm's engine, the deck plays 4 Lillie and 4 Cynthia, a heavy count of draw Supporters."
+  },
+  {
+    "type": "paragraph",
+    "content": "Furthermore the deck plays 4 Acro Bike, which thin through the deck, finding useful pieces and discarding extra resources or Psychic Energy."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Ultra Ball and 4 Mysterious Treasure search Inkay, Malamar and most the Pokemon in the deck, alongside a bonus of being able to discard your Psychic Energy from hand. A single copy of Nest Ball rounds out the Pokemon search, as an extra out to a Basic Pokemon when drawn."
+  },
+  {
+    "type": "subheading",
+    "content": "Pivoting, Gust, Damage Modification and Recovery"
+  },
+  {
+    "type": "paragraph",
+    "content": "Once Malamar are in play and Energy is in the Discard, priorities shift to having attackers able to move into the Active and take KOs. "
+  },
+  {
+    "type": "image",
+    "src": "/decks/sum-lot/malamar/necro.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Managing hand attachments well can allow you to Guzma big targets for big swing KOs"
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Guzma and 3 Switch help get this done, just be sure to “Psychic Recharge” to an attacker before moving it to the Active spot. The heavy Guzma count also gives the deck access to a lot of gust, which can be searched when needed with Tapu Lele GX. "
+  },
+  {
+    "type": "paragraph",
+    "content": "The 2 Choice Band boost the damage output of your Pokemon's attacks on Pokemon GX by 30, which can be critical for hitting some larger HP Pokemon GX for an OHKO. Notably a Giratina “Distortion Door” + Choice Banded “Prismatic Burst” from Necrozma GX deals a perfect 210 Damage to Zoroark GX, and Choice Band also puts the damage of Dawn Wings Necrozma GX's “Moon's Eclipse GX” to 210. "
+  },
+  {
+    "type": "paragraph",
+    "content": "Finally the deck plays a copy of Rescue Stretcher, to recover Malamar or attackers as the situation calls for it."
+  },
+  {
+    "type": "heading",
+    "content": "Energy"
+  },
+  {
+    "type": "paragraph",
+    "content": "This list plays 11 Psychic Energy, enough to consistently send a large amount to the Discard pile early."
+  }
+]

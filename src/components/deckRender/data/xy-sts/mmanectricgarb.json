@@ -21,7 +21,7 @@
   },
   {
     "type": "paragraph",
-    "content": "From there “Turbo Bolt”, Max Potion and Rough Seas will whittle away your opponent's board whilst setting up yours to close the game out with one of your many Lightning-type Dog Pokemon."
+    "content": "From there “Turbo Bolt”, Max Potion and Rough Seas will whittle away your opponent's board whilst setting up yours to close the game out with one of your many Lightning-Type Dog Pokemon."
   },
   {
     "type": "heading",
@@ -50,7 +50,7 @@
   },
   {
     "type": "paragraph",
-    "content": "Manectric EX is not the main attacker in the deck, but its “Assault Laser” attack situationaly deals 120 Damage. Accelerating to a Manectric EX with Max Elixir or “Turbo Bolt” is often the correct, even when you have no access to a Manectric Spirit Link. M Manectric itself is bulky, efficient attacker. The damage output of Turbo Bolt is relatively low, but 210HP paired with free retreat and energy recursion allows you to poke, switch and heal. Make sure to play Spirit Links on your Manectric EXs to avoid ending your turn when evolving into M Manectric EX, and note that Max Elixir can only target Basic Pokemon."
+    "content": "Manectric EX is not the main attacker in the deck, but its “Assault Laser” attack situationaly deals 120 Damage. Accelerating to a Manectric EX with Max Elixir or “Turbo Bolt” is often the correct, even when you have no access to a Manectric Spirit Link. M Manectric itself is bulky, efficient attacker. The damage output of Turbo Bolt is relatively low, but 210HP paired with free Retreat and Energy recursion allows you to poke, switch and heal. Make sure to play Spirit Links on your Manectric EXs to avoid ending your turn when evolving into M Manectric EX, and note that Max Elixir can only target Basic Pokemon."
   },
   {
     "type": "subheading",
@@ -58,7 +58,7 @@
   },
   {
     "type": "paragraph",
-    "content": "Garbodor is central to the decks strategy in a wide range of matchups. It shuts off Shaymin EX, Volcanion EX, Yveltal BKT, Greninja BREAK and Giratina EX to name a few. But you only need 1 on board, and so the deck plays a 2-2 line, such that you might bench both to guarantee that a Garbodor will come into play on the following turn. Although you want Float Stone attached to your Garbodor for free retreat, it can be useful to throw a Manectric Spirit Link on it to activate “Garbotoxin” when you are short of options."
+    "content": "Garbodor is central to the decks strategy in a wide range of matchups. It shuts off Shaymin EX, Volcanion EX, Yveltal BKT, Greninja BREAK and Giratina EX to name a few. But you only need 1 on board, and so the deck plays a 2-2 line, such that you might bench both to guarantee that a Garbodor will come into play on the following turn. Although you want Float Stone attached to your Garbodor for free Retreat, it can be useful to throw a Manectric Spirit Link on it to activate “Garbotoxin” when you are short of options."
   },
   {
     "type": "image",
@@ -74,7 +74,7 @@
   },
   {
     "type": "paragraph",
-    "content": "Raikou is often used as a weak 1 Prize attacker to offset the prize trade, but also helps with one of the decks other weaknesses - it can hit quite comfortably over 110 Damage. After one “Turbo Bolt” and a hand attachment Raikou's “Thunder Lance” will be doing 110 Damage, which can upped by Max Elixirs and more “Turbo Bolt”. Raikou can notably attack for [C][C][C], which makes it DCE compatible, although its damage does not scale with non-Lightning Energy."
+    "content": "Raikou is often used as a weak single-prize attacker to offset the prize trade, but also helps with one of the decks other weaknesses - it can hit quite comfortably over 110 Damage. After one “Turbo Bolt” and a hand attachment Raikou's “Thunder Lance” will be doing 110 Damage, which can upped by Max Elixirs and more “Turbo Bolt”. Raikou can notably attack for [C][C][C], which makes it DCE compatible, although its damage does not scale with non-Lightning Energy."
   },
   {
     "type": "subheading",
@@ -90,6 +90,10 @@
     "src": "/decks/xy-sts/mmanectricgarb/jolteon.jpg"
   },
   {
+    "type": "imageCaption",
+    "content": "Flash Ray Garbotoxin N to beat pesky Night March"
+  },
+  {
     "type": "heading",
     "content": "Support Pokemon"
   },
@@ -103,7 +107,7 @@
   },
   {
     "type": "paragraph",
-    "content": "Shaymin EX is ubiquitous, a mid-turn hand refresh is sometimes needed to find the game winning play, just be careful as its 110HP makes it an easy target for Lysandre."
+    "content": "Shaymin EX is ubiquitous, a Mid-Turn hand refresh is sometimes needed to find the game winning play, just be careful as its 110HP makes it an easy target for Lysandre."
   },
   {
     "type": "subheading",
@@ -111,7 +115,7 @@
   },
   {
     "type": "paragraph",
-    "content": "Hoopa EXs “Scoundrel Ring” searches multiple Manectric EX and sometimes even MManectric EX when needed, and helps guarantee you get those Pokemon in play/evolved when you need to. Hoopa's 2 retreat makes it a target for Lysandre, but its deck thinning and search is too efficient to pass up. Note that if you have a particularly miserable hand Hoopa can search 2 Manectric EX and the Shaymin EX."
+    "content": "Hoopa EXs “Scoundrel Ring” searches multiple Manectric EX and sometimes even MManectric EX when needed, and helps guarantee you get those Pokemon in play/evolved when you need to. Hoopa's 2 Retreat Cost makes it a target for Lysandre, but its deck thinning and search is too efficient to pass up. Note that if you have a particularly miserable hand Hoopa can search 2 Manectric EX and the Shaymin EX."
   },
   {
     "type": "heading",
@@ -147,11 +151,11 @@
   },
   {
     "type": "paragraph",
-    "content": "2 Lysandre allow you to pull up smaller Pokemon EX for easy KOs, specifically Shaymin EX and Pokemon Damaged by “Turbo Bolt”. 1 copy of AZ to remove liability Pokemon such as Shaymin EX and Hoopa EX or even remove a damaged MManectric EX from the board."
+    "content": "2 Lysandre allow you to pull up smaller Pokemon EX for easy KOs, specifically Shaymin EX and Pokemon damaged by “Turbo Bolt”. 1 copy of AZ to remove liability Pokemon such as Shaymin EX and Hoopa EX or even remove a damaged MManectric EX from the board."
   },
   {
     "type": "paragraph",
-    "content": "For healing cards 3 Rough Seas consistently heal MManectric EX as they sit on the bench, but the 2 Max Potion combo cleanly with “Turbo Bolt” to reset damaged MManectric EX. Finally the deck plays 3 Manectric Spirit Link, which are necessary to circumvent the Mega Evolution Rule on MManectric EX."
+    "content": "For healing cards 3 Rough Seas consistently heal MManectric EX as they sit on the Bench, but the 2 Max Potion combo cleanly with “Turbo Bolt” to reset damaged MManectric EX. Finally the deck plays 3 Manectric Spirit Link, which are necessary to circumvent the Mega Evolution Rule on MManectric EX."
   },
   {
     "type": "heading",
