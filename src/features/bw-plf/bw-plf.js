@@ -2,7 +2,7 @@ import "../../styles/tcg-guides.css";
 import ListDecks from "../../components/listDecks";
 
 function BwPlf() {
-  const decks = ["TDK", "RayEels"];
+  const decks = ["RayEels", "TDK"];
   const format = "bw-plf";
 
   return (
