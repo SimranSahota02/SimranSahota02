@@ -33,18 +33,6 @@
   },
   {
     "type": "heading",
-    "content": "Things to watch out for"
-  },
-  {
-    "type": "paragraph",
-    "content": "DragTile plays through Dark Dragonite, so be aware of cards that can OHKO it like Lugia ex and Latios Star. Similarly Imprison and Stantler’s “Screechy Voice” shut down “Dark Trance” which can be brutal, so try to employ Sceptile ex δ and Copy attackers when relevant."
-  },
-  {
-    "type": "paragraph",
-    "content": "The deck plays a narrow Energy count, so be aware of prizing!"
-  },
-  {
-    "type": "heading",
     "content": "The Deck"
   },
   {
@@ -235,5 +223,17 @@
   {
     "type": "paragraph",
     "content": "4 Dark Metal also provide Dark Energy, but no damage boost, they are in the list as they have synergy with Dark Electrode’s Darkness Navigation."
+  },
+  {
+    "type": "heading",
+    "content": "Things to watch out for"
+  },
+  {
+    "type": "paragraph",
+    "content": "DragTile plays through Dark Dragonite, so be aware of cards that can OHKO it like Lugia ex and Latios Star. Similarly Imprison and Stantler’s “Screechy Voice” shut down “Dark Trance” which can be brutal, so try to employ Sceptile ex δ and Copy attackers when relevant."
+  },
+  {
+    "type": "paragraph",
+    "content": "The deck plays a narrow Energy count, so be aware of prizing!"
   }
 ]

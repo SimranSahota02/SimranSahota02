@@ -1,0 +1,175 @@
+[
+  {
+    "type": "title",
+    "content": "RayEels"
+  },
+  {
+    "type": "image",
+    "src": "/decks/bw-plf/rayeels/cover.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "It's Rayquaza with a steel chair!!!!"
+  },
+  {
+    "type": "heading",
+    "content": "Concept"
+  },
+  {
+    "type": "paragraph",
+    "content": "Rayquaza EX is a pop off deck in all the best ways. With a low-to-ground engine of “Dynamotor” Eelektrik, Rayquaza EX can easily wreak havoc hitting for OHKO after OHKO. Inconsistent at times, use a plethora of draw Supporters and Stadium card Tropical Beach to run through the Deck and sweep your opponent."
+  },
+  {
+    "type": "heading",
+    "content": "The Deck"
+  },
+  {
+    "type": "image",
+    "src": "/decks/bw-plf/rayeels/decklist.jpg"
+  },
+  {
+    "type": "link",
+    "href": "https://limitlesstcg.com/decks/list/3952",
+    "content": "Decklist on LimitlessTCG"
+  },
+  {
+    "type": "paragraph",
+    "content": "List credit to Jon Bristow at Worlds 2013."
+  },
+  {
+    "type": "heading",
+    "content": "Pokemon"
+  },
+  {
+    "type": "subheading",
+    "content": "4-4 Tynamo, Eelektrik"
+  },
+  {
+    "type": "paragraph",
+    "content": "The primary engine of the deck is Eelektrik's “Dynamotor” Ability, flooding your board with Lightning Energy to attack with Rayquaza EX. With 3 Eelektrik on board, you can deal 180 Damage with “Dragon Burst” every turn. Get as many Tynamo in play as possible turn 1, as a smart opponent will target them down before they evolve."
+  },
+  {
+    "type": "paragraph",
+    "content": "Almost all bench snipe in the format does 30 Damage, so the 40HP Tynamo is usually safe to be benched whenever, problems arise when a Tynamo is KOed and another is damaged, threatening a domino effect. Evolving a damaged Tynamo will prevent another 30 Damage snipe from KOing it, but it is still vulnerable to gust."
+  },
+  {
+    "type": "image",
+    "src": "/decks/bw-plf/rayeels/eels.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "All 4 eels on board no brakes"
+  },
+  {
+    "type": "subheading",
+    "content": "3 Rayquaza EX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Rayquaza EX is the premier attacker in the deck, dealing 60X the number of Lightning Energy discarded when using “Dragon Burst”. Hitting a clean 180 at 3 Energy discarded, Rayquaza is a glass cannon and OHKO machine."
+  },
+  {
+    "type": "paragraph",
+    "content": "Always hand attach Fire Energy to Rayquaza EXs, as Lightning can be reloaded later with Eelektrik. As you cannot choose how much Energy to discard when using “Dragon Burst”, don't overload a Rayquaza, instead prep a second one on the Bench."
+  },
+  {
+    "type": "paragraph",
+    "content": "Rayquaza EX's other attack “Celestial Roar” can be useful in spots where you are seriously bricking, and you do not expect your opponent to be able to OHKO your Rayquaza EX."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Rayquaza"
+  },
+  {
+    "type": "paragraph",
+    "content": "Baby Rayquaza covers some of the notable weaknesses of attacking with a big 2 prizer that discards its own Energy each turn. As a single-prizer, it can comfortably offset a 2-2-2 prize trade. “Shred” does not discard any Energy from Rayquaza, so gust KOing Eelektrik is less devastating. Rayquaza EX also happens to be, as are most in the format, a Dragon-Type with Dragon-Type Weakness. Baby Rayquaza comfortably slots in as a way to OHKO other Dragon threats, for example the mirror or against Blastoise."
+  },
+  {
+    "type": "image",
+    "src": "/decks/bw-plf/rayeels/baby.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Sweet Baby Ray"
+  },
+  {
+    "type": "subheading",
+    "content": "1 Raikou EX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Raikou EX gives the deck bench access without playing a Pokemon Catcher. “Volt Bolt” deals a clean 100 Damage to KO opposing Eelektrik, Garbodor or softened targets on the Bench. As a bonus when all else fails, an N to low and “Thunder Fang” Paralysis can buy a turn."
+  },
+  {
+    "type": "subheading",
+    "content": "2 Keldeo EX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Keldeo EX is not an attacker, its “Rush In” Ability allows you to move your Rayquaza EX to the Bench so that you can target it with “Dynamotor” on consecutive turns. Attach a Float Stone to Keldeo EX to have a mid turn pivot that can be used to remove Special Conditions, notably set up both against Accelgor lock decks."
+  },
+  {
+    "type": "heading",
+    "content": "Trainers"
+  },
+  {
+    "type": "subheading",
+    "content": "Consistency"
+  },
+  {
+    "type": "paragraph",
+    "content": "This decks ACE-SPEC card is Computer Search, the flexibility of a once-per-game tutor is too good to pass up."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Juniper 4 N 3 Colress form an insanely strong shuffle, dump & draw engine. Juniper will discard Lightning Energy, Colress draws huge when you have many Eelektrik in play and N can hand disrupt an opponent at the end of a game."
+  },
+  {
+    "type": "paragraph",
+    "content": "3 Tropical Beach allow you to empty your hand and refill for free on an early setup turn where you can not yet attack."
+  },
+  {
+    "type": "image",
+    "src": "/decks/bw-plf/rayeels/trainers.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Consistency core of the deck"
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Ultra Ball allow you to dump Lightning Energy from the hand whilst searching either Rayquaza or Eelektrik pieces, and the 4 Level Ball in the deck give you 4 more outs to find Tynamo or Eelektrik early."
+  },
+  {
+    "type": "paragraph",
+    "content": "The deck also plays a copy of Energy Search, which can be used as an extra out to Fire or Lightning Enery as required."
+  },
+  {
+    "type": "subheading",
+    "content": "Other Trainers"
+  },
+  {
+    "type": "paragraph",
+    "content": "3 Float Stone are needed to move trapped Eelektrik or to promote Rayquaza EX mid-turn after it goes to the Bench for reloading with “Dynamotor”."
+  },
+  {
+    "type": "paragraph",
+    "content": "3 Pokemon Catcher for picking up Pokemon EX off the Bench to OHKO with Rayquaza EX."
+  },
+  {
+    "type": "paragraph",
+    "content": "2 Super Rod is enough recovery to keep Eelektrik and Fire Energy coming throughout the game, if you have to discard one early check the other isn't prized."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Max Potion's primary use is to heal a damaged Rayquaza EX, attaching another Fire Energy immediately and using “Dynamotor” to get attacking again."
+  },
+  {
+    "type": "heading",
+    "content": "Energy"
+  },
+  {
+    "type": "paragraph",
+    "content": "This list plays a split of 8 Lightning and 4 Fire Energy, discard Lightnings where possible and keep track of your remaining Fire and Super Rod to not miss an attack."
+  }
+]
