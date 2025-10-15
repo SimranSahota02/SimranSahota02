@@ -1,0 +1,207 @@
+[
+  {
+    "type": "title",
+    "content": "TDK"
+  },
+  {
+    "type": "image",
+    "src": "/decks/bw-plf/tdk/cover.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "My name is Ghetsis. I am here representing Team Plasma."
+  },
+  {
+    "type": "heading",
+    "content": "Concept"
+  },
+  {
+    "type": "paragraph",
+    "content": "Big Basics at their finest, the trifecta of Thundurus EX, Deoxys EX and Kyurem form a three-pronged attack that puts on pressure early and doesn't stop swinging until the game ends."
+  },
+  {
+    "type": "paragraph",
+    "content": "Single-prize all star Kyurem's “Frost Spear” applies bench pressure, and when combined with the decks heavy gust, poison and damage modifiying Deoxys EX that pressure can quickly run evolving Pokemon off the board. Even if your opponent does respond to Kyurem with a Pokemon EX, they only take a single prize card - so you can offset the prize trade and keep the barrage coming."
+  },
+  {
+    "type": "heading",
+    "content": "The Deck"
+  },
+  {
+    "type": "image",
+    "src": "/decks/bw-plf/tdk/decklist.jpg"
+  },
+  {
+    "type": "link",
+    "href": "https://my.limitlesstcg.com/builder?i=10432PLF530332PLF310232PLF380232PLF670132BWP610432DEX980432DEX960233BCR1340233PLS1180432EPO950433PLS1230433PLS1190232EPO940233DEX1020133PLF1050133BCR1370332PLF990233PLS1260433PLS1270433DRX1180432NXD930133DRX117",
+    "content": "Decklist on LimitlessTCG"
+  },
+  {
+    "type": "heading",
+    "content": "Pokemon"
+  },
+  {
+    "type": "subheading",
+    "content": "2 Thundurus EX"
+  },
+  {
+    "type": "paragraph",
+    "content": "If you don't start the game attacking with Kyurem, Thundurus EX is your next best attacker. The damage of “Raiden Knuckle” can be boosted by Deoxys EX, accelerating to your next attacker on the Bench. Make an effort to discard a few Energy early and you will be able to accelerate multiple times with Thundurus EX. In a format with Enhanced Hammer and Cobalion EX discarding Special Energy, play to recur said Energy with Thundurus EX."
+  },
+  {
+    "type": "paragraph",
+    "content": "Pivoting into Thundurus EX for a turn after the first Kyurem goes down is often strong, fixing damage for future “Blizzard Burn” KOs. “Thunderous Noise” does not often get used, and only comes up when you have no other targets than Thundurus EX to attach to."
+  },
+  {
+    "type": "image",
+    "src": "/decks/bw-plf/tdk/board.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Using Thundurus EX to prep a benched Kyurem and Absol"
+  },
+  {
+    "type": "subheading",
+    "content": "3 Kyurem"
+  },
+  {
+    "type": "paragraph",
+    "content": "Kyurem is a great Early-Game attacker, is very strong in the Mid-Game setting up KOs, finally is bulky enough to be a threat in the lategame."
+  },
+  {
+    "type": "paragraph",
+    "content": "Jokes aside, between “Frost Spear” farming small single-prize Pokemon and “Blizzard Burn” finishing off big Pokemon EX with Deoxys EX and Laser + Bank modification, the only time to not use Kyurem is when you can't. Colress Machine or “Raiden Knuckle” turn 1 allows you to get swinging with “Frost Spear” ASAP, and as Kyurem is itself a single-prize Pokemon, you can push your board advantage attacking the Bench whilst forcing gust out of your opponent. And when they do gust, back up comes Kyurem, ready to “Blizzard Burn” for a big KO."
+  },
+  {
+    "type": "subheading",
+    "content": "4 Deoxys EX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Deoxys EX is a bench warming 2 prizer, but its Ability “Power Connect” adds +10 Damage to the attacks of your other Plasma Pokemon. It stacks, allowing a boost up to +40 Damage with all 4 Deoxys EX bench. With a few Deoxys in play Kyurem and Thundurus EX become real threats."
+  },
+  {
+    "type": "paragraph",
+    "content": "Its 2 Retreat can be difficult to navigate when not fully setup, try to preserve Float Stone for Keldeo EX as to never end up stuck by Pokemon Catcher and Hypnotoxic Laser flips. Don't attach to Deoxys EX if you expect Mewtwo EX, although “Helix Force” allows Deoxys EX to OHKO a Mewtwo EX with a DCE, Mewtwo EX can return the OHKO if Deoxys EX already has 2 Energy on it."
+  },
+  {
+    "type": "subheading",
+    "content": "2 Absol"
+  },
+  {
+    "type": "paragraph",
+    "content": "Absol fills a rift in the deck, hitting high numbers without requiring a large investment. Able to close out games on smaller Pokemon EX, it is often wise to hide Absol from your opponent when possible for the Early-Game, such that they might play more Pokemon to the Bench for Absol's “Mind Jack”."
+  },
+  {
+    "type": "paragraph",
+    "content": "Absol shines in the Mid-Late, when heavy disruption from N comes in it is an easier to power up 2 Energy attacker."
+  },
+  {
+    "type": "subheading",
+    "content": "1 Keldeo EX"
+  },
+  {
+    "type": "paragraph",
+    "content": "Keldeo EX is not an attacker, its “Rush In” Ability allows you to reset the effect of Kyurem's “Blizzard Burn” so that you can attack on consecutive turns. Attach a Float Stone to Keldeo EX to have a mid turn pivot that can be used to remove Special Conditions, notably important against Accelgor lock decks."
+  },
+  {
+    "type": "image",
+    "src": "/decks/bw-plf/tdk/keldeo.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "Keldeo Float Stone lets you remove Poison from incoming Hypnotoxic Laser"
+  },
+  {
+    "type": "heading",
+    "content": "Trainers"
+  },
+  {
+    "type": "paragraph",
+    "content": "As with many big decks in the Black & White Era, the Trainer base is made up of simple power cards. As the deck has no on board draw engine, pieces that can almost always be played as drawn and Supporters that draw heavy off a disruptive N become much more powerful."
+  },
+  {
+    "type": "subheading",
+    "content": "Supporters"
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Professor Juniper allows you to comfortably play down a hand before drawing a fresh 7, which makes it insanely powerful against an opposing N. When you have more than 1 Supporter card in hand, weigh up if it might be better to retain your resources and play the Juniper later."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 N acts as disruption alongside shuffle draw, and can be used to lower an opponents hand size whilst you force them to go through Kyurem. When going to 2 prizes try to discard your N, as they stop being a good card to draw into."
+  },
+  {
+    "type": "paragraph",
+    "content": "2 Colress draw an insane amount of cards. As you'll usually have a number of Deoxys EX in play Colress will often draw 8+ cards. As Colress is weak early and can be influenced by your opponent, the deck only plays 2."
+  },
+  {
+    "type": "paragraph",
+    "content": "2 Skyla allow you to hold the hand and tutor a card you need this turn. Pokemon Catcher, Hypnotoxic Laser even Computer Search if you need a non-Trainer card. Skyla to search out Juniper for the next turn is a solid play when drawing dead."
+  },
+  {
+    "type": "image",
+    "src": "/decks/bw-plf/tdk/frost.jpg"
+  },
+  {
+    "type": "imageCaption",
+    "content": "An opening hand with a Kyurem Energy and Skyla is primed to “Frost Spear” turn 1"
+  },
+  {
+    "type": "subheading",
+    "content": "Other Trainer Cards"
+  },
+  {
+    "type": "paragraph",
+    "content": "This decks ACE-SPEC card is Computer Search, the flexibility of a once-per-game tutor is too good to pass up."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Colress Machine allow you to accelerate Plasma Energy from the Deck, getting a double attachment for turn."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Hypnotoxic Laser is a +10 Damage boost at worst, and can be buffed to +30 Damage with one of the 3 Virbank City Gym. It puts pressure on your opponent to switch their Pokemon, or the poison will tick for more damage. 25% of the time your opponents Pokemon is also left asleep going into their turn, which is brutal."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Pokemon Catcher chase down vulnerable evolving Pokemon, and finish off KOs on damaged Pokemon EX."
+  },
+  {
+    "type": "paragraph",
+    "content": "3 Float Stone allow you to move the Active Pokemon, save one for Keldeo EX to create a free Retreat pivot you can use each turn."
+  },
+  {
+    "type": "paragraph",
+    "content": "2 Ultra Ball and 1 Plasma Ball are the Pokemon search cards in the list. It can be a little harder to find exact Pokemon without drawing into them, but in practice it plays fine."
+  },
+  {
+    "type": "paragraph",
+    "content": "2 Max Potion deny your opponent important 2HKOs, or KOs on Pokemon that have taken snipe or Laser damage."
+  },
+  {
+    "type": "heading",
+    "content": "Energy"
+  },
+  {
+    "type": "paragraph",
+    "content": "Finding Energy attachment each turn is important to keep attacking, even with Colress Machine and “Raiden Knuckle”. The deck plays a total 13 Energy cards."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Plasma Energy can be accelerated with Colress Machine and enable Deoxys EX to use “Helix Force”. A full 4 count gives max outs to having some in the Deck when playing Colress Machine."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Prism Energy are Rainbow Energy for the purposes of this deck, prioritise accelerating these with “Raiden Knuckle”."
+  },
+  {
+    "type": "paragraph",
+    "content": "4 Blend WLFM Energy cover the attack costs of both Thundurus EX and Kyurem, having 4 more flexible Energy ups the consistency of attacking with “Frost Spear” or “Raiden Knuckle” turn 1."
+  },
+  {
+    "type": "paragraph",
+    "content": "1 Blend GRPD Energy covers the attack costs of Deoxys EX and Absol, the deck only plays 1 as these attackers are not as critical to your main gameplan."
+  }
+]
