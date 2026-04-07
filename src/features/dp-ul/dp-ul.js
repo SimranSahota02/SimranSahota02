@@ -2,7 +2,24 @@ import "../../styles/tcg-guides.css";
 import ListDecks from "../../components/listDecks";
 
 function DpUl() {
-  const decks = [];
+  const decks = [
+    "BLG",
+    "Curse",
+    "DialgaChomp",
+    "Donphan",
+    "FlyTerra",
+    "GG AMU",
+    "GKC",
+    "Gyarados",
+    "Healix",
+    "Jumpluff",
+    "Lady Gaga",
+    "Magnezone",
+    "Plox",
+    "Regigigas",
+    "Sablock",
+    "Tyranitar",
+  ];
   const format = "dp-ul";
 
   return (

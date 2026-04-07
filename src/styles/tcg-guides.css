@@ -60,7 +60,7 @@ body {
 
 .content {
   min-height: 100vh;
-  height: auto;
+  height: 112vh;
   display: flex;
   flex-direction: column;
   text-align: justify;
@@ -75,4 +75,10 @@ body {
   background-size: auto;
   background-position: top left;
   background-repeat: repeat;
+}
+
+@media (max-width: 768px) {
+  .content {
+    height: auto;
+  }
 }

@@ -27,6 +27,7 @@ function App() {
         <Route path="/glc" element={<Glc />} />
         <Route path="/bs-fo" element={<BsFo />} />
       </Route>
+      <Route path="*" element={<Home />} />
     </Routes>
   );
 }

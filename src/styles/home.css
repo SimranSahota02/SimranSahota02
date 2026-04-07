@@ -70,9 +70,10 @@
 .panel {
   flex: 1 1 30%;
   max-width: 30%;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: auto;
   box-sizing: border-box;
   overflow: auto;
+  min-height: 460.7px;
 }
 
 .panel li a {
@@ -121,6 +122,7 @@
     max-width: 90%;
     width: 100%;
     aspect-ratio: auto;
+    min-height: 0;
   }
 
   .panel li a {
