@@ -1,5 +1,6 @@
 import "../styles/tcg-guides.css";
 import "../styles/home.css";
+import LimitlessTable from "../components/limitlessTable";
 
 function Home() {
   return (
@@ -62,6 +63,7 @@ function Home() {
           <img src={require(`../images/homepage/icon.jpg`)} alt="" />
         </div>
       </div>
+      <LimitlessTable />
     </div>
   );
 }

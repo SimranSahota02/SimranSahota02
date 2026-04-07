@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const ListDecks = ({ decks, format }) => {
   return (
-    <div className="panel textbox">
+    <div className="panel textbox panel-decklists">
       <h1>My Decks</h1>
       <ul>
         {decks.map((deckName) => (
